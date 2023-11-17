@@ -1,0 +1,1165 @@
+Abnormality of body height // HP:0000002
+Multicystic kidney dysplasia // HP:0000003
+Abnormal morphology of female internal genitalia // HP:0000008
+Functional abnormality of the bladder // HP:0000009
+Recurrent urinary tract infections // HP:0000010
+Neurogenic bladder // HP:0000011
+Urinary urgency // HP:0000012
+Hypoplasia of the uterus // HP:0000013
+Abnormality of the bladder // HP:0000014
+Bladder diverticulum // HP:0000015
+Urinary retention // HP:0000016
+Nocturia // HP:0000017
+Urinary incontinence // HP:0000020
+Inguinal hernia // HP:0000023
+Prostatitis // HP:0000024
+Male hypogonadism // HP:0000026
+Testicular gonadoblastoma // HP:0000030
+Epididymitis // HP:0000031
+Hypogonadotropic hypogonadism // HP:0000044
+Proteinuria // HP:0000093
+Tall stature // HP:0000098
+Glomerulonephritis // HP:0000099
+Renal phosphate wasting // HP:0000117
+Nephritis // HP:0000123
+Renal salt wasting // HP:0000127
+Renal potassium wasting // HP:0000128
+Uterine leiomyoma // HP:0000131
+Menorrhagia // HP:0000132
+Female hypogonadism // HP:0000134
+Hypogonadism // HP:0000135
+Uterine prolapse // HP:0000139
+Rectovaginal fistula // HP:0000143
+Ovarian gonadoblastoma // HP:0000149
+Gonadoblastoma // HP:0000150
+Abnormality of the mouth // HP:0000153
+Wide mouth // HP:0000154
+Oral ulcer // HP:0000155
+Abnormality of the tongue // HP:0000157
+Macroglossia // HP:0000158
+Abnormal lip morphology // HP:0000159
+Narrow mouth // HP:0000160
+Median cleft lip // HP:0000161
+Glossoptosis // HP:0000162
+Abnormal oral cavity morphology // HP:0000163
+Abnormality of the dentition // HP:0000164
+Severe periodontitis // HP:0000166
+Abnormality of the gingiva // HP:0000168
+Gingival fibromatosis // HP:0000169
+Microglossia // HP:0000171
+Abnormal uvula morphology // HP:0000172
+Abnormal palate morphology // HP:0000174
+Cleft palate // HP:0000175
+Submucous cleft hard palate // HP:0000176
+Abnormal upper lip morphology // HP:0000177
+Abnormal lower lip morphology // HP:0000178
+Thick lower lip vermilion // HP:0000179
+Lobulated tongue // HP:0000180
+Movement abnormality of the tongue // HP:0000182
+Difficulty in tongue movements // HP:0000183
+Cleft soft palate // HP:0000185
+Broad alveolar ridges // HP:0000187
+Short upper lip // HP:0000188
+Narrow palate // HP:0000189
+Abnormal oral frenulum morphology // HP:0000190
+Accessory oral frenulum // HP:0000191
+Bifid uvula // HP:0000193
+Open mouth // HP:0000194
+Lower lip pit // HP:0000196
+Abnormal parotid gland morphology // HP:0000197
+Absence of Stensen duct // HP:0000198
+Tongue nodules // HP:0000199
+Short lingual frenulum // HP:0000200
+Pierre-Robin sequence // HP:0000201
+Orofacial cleft // HP:0000202
+Cleft upper lip // HP:0000204
+Pursed lips // HP:0000205
+Glossitis // HP:0000206
+Triangular mouth // HP:0000207
+Trismus // HP:0000211
+Gingival overgrowth // HP:0000212
+Lip telangiectasia // HP:0000214
+Thick upper lip vermilion // HP:0000215
+Broad secondary alveolar ridge // HP:0000216
+Xerostomia // HP:0000217
+High palate // HP:0000218
+Thin upper lip vermilion // HP:0000219
+Velopharyngeal insufficiency // HP:0000220
+Furrowed tongue // HP:0000221
+Gingival hyperkeratosis // HP:0000222
+Abnormality of taste sensation // HP:0000223
+Hypogeusia // HP:0000224
+Gingival bleeding // HP:0000225
+Tongue telangiectasia // HP:0000227
+Oral cavity telangiectasia // HP:0000228
+Gingivitis // HP:0000230
+Everted lower lip vermilion // HP:0000232
+Thin vermilion border // HP:0000233
+Abnormality of the head // HP:0000234
+Abnormality of the fontanelles or cranial sutures // HP:0000235
+Abnormality of the anterior fontanelle // HP:0000236
+Small anterior fontanelle // HP:0000237
+Hydrocephalus // HP:0000238
+Large fontanelles // HP:0000239
+Abnormality of skull size // HP:0000240
+Parietal bossing // HP:0000242
+Trigonocephaly // HP:0000243
+Brachyturricephaly // HP:0000244
+Abnormal paranasal sinus morphology // HP:0000245
+Sinusitis // HP:0000246
+Brachycephaly // HP:0000248
+Dense calvaria // HP:0000250
+Microcephaly // HP:0000252
+Progressive microcephaly // HP:0000253
+Acute sinusitis // HP:0000255
+Macrocephaly // HP:0000256
+Wide anterior fontanel // HP:0000260
+Turricephaly // HP:0000262
+Oxycephaly // HP:0000263
+Abnormal mastoid morphology // HP:0000264
+Mastoiditis // HP:0000265
+Cranial asymmetry // HP:0000267
+Dolichocephaly // HP:0000268
+Prominent occiput // HP:0000269
+Delayed cranial suture closure // HP:0000270
+Abnormality of the face // HP:0000271
+Malar flattening // HP:0000272
+Facial grimacing // HP:0000273
+Small face // HP:0000274
+Narrow face // HP:0000275
+Long face // HP:0000276
+Abnormal mandible morphology // HP:0000277
+Retrognathia // HP:0000278
+Coarse facial features // HP:0000280
+Facial edema // HP:0000282
+Broad face // HP:0000283
+Epicanthus // HP:0000286
+Increased facial adipose tissue // HP:0000287
+Abnormality of the philtrum // HP:0000288
+Broad philtrum // HP:0000289
+Abnormality of the forehead // HP:0000290
+Abnormality of facial adipose tissue // HP:0000291
+Loss of facial adipose tissue // HP:0000292
+Full cheeks // HP:0000293
+Low anterior hairline // HP:0000294
+Doll-like facies // HP:0000295
+Facial hypotonia // HP:0000297
+Mask-like facies // HP:0000298
+Oval face // HP:0000300
+Abnormality of facial musculature // HP:0000301
+Mandibular prognathia // HP:0000303
+Abnormality of the chin // HP:0000306
+Pointed chin // HP:0000307
+Strabismus // HP:0000486
+Retinopathy // HP:0000488
+Deeply set eye // HP:0000490
+Keratitis // HP:0000491
+Abnormal eyelid morphology // HP:0000492
+Abnormal foveal morphology // HP:0000493
+Downslanted palpebral fissures // HP:0000494
+Recurrent corneal erosions // HP:0000495
+Abnormality of eye movement // HP:0000496
+Globe retraction and deviation on abduction // HP:0000497
+Blepharitis // HP:0000498
+Abnormal eyelash morphology // HP:0000499
+Glaucoma // HP:0000501
+Abnormal conjunctiva morphology // HP:0000502
+Tortuosity of conjunctival vessels // HP:0000503
+Abnormality of vision // HP:0000504
+Telecanthus // HP:0000506
+Conjunctivitis // HP:0000509
+Conjunctival telangiectasia // HP:0000524
+Long eyelashes // HP:0000527
+Abnormal eyebrow morphology // HP:0000534
+Epicanthus inversus // HP:0000537
+Corneal scarring // HP:0000559
+Absent eyelashes // HP:0000561
+Lacrimal duct atresia // HP:0000564
+Retinal hemorrhage // HP:0000573
+Thick eyebrow // HP:0000574
+Nasolacrimal duct obstruction // HP:0000579
+Blepharophimosis // HP:0000581
+Upslanted palpebral fissure // HP:0000582
+Shallow orbits // HP:0000586
+Abnormality of the frontal hairline // HP:0000599
+Abnormality of the pharynx // HP:0000600
+Abnormality of the periorbital region // HP:0000606
+Periorbital wrinkles // HP:0000607
+Optic nerve hypoplasia // HP:0000609
+Photophobia // HP:0000613
+Abnormal nasolacrimal system morphology // HP:0000614
+Dacryocystitis // HP:0000620
+Entropion // HP:0000621
+Eyelid coloboma // HP:0000625
+Periorbital fullness // HP:0000629
+Abnormal retinal artery morphology // HP:0000630
+Retinal arterial tortuosity // HP:0000631
+Upper eyelid coloboma // HP:0000636
+Long palpebral fissure // HP:0000637
+Blepharospasm // HP:0000643
+Lower eyelid coloboma // HP:0000652
+Sparse eyelashes // HP:0000653
+Ectropion // HP:0000656
+Oculomotor apraxia // HP:0000657
+Eyelid apraxia // HP:0000658
+Lipemia retinalis // HP:0000660
+Palpebral fissure narrowing on adduction // HP:0000661
+Synophrys // HP:0000664
+Hypodontia // HP:0000668
+Carious teeth // HP:0000670
+Anodontia // HP:0000674
+Macrodontia of permanent maxillary central incisor // HP:0000675
+Abnormality of the incisor // HP:0000676
+Oligodontia // HP:0000677
+Dental crowding // HP:0000678
+Taurodontia // HP:0000679
+Delayed eruption of primary teeth // HP:0000680
+Abnormal dental enamel morphology // HP:0000682
+Grayish enamel // HP:0000683
+Delayed eruption of teeth // HP:0000684
+Hypoplasia of teeth // HP:0000685
+Widely spaced teeth // HP:0000687
+Dental malocclusion // HP:0000689
+Agenesis of maxillary lateral incisor // HP:0000690
+Microdontia // HP:0000691
+Tooth malposition // HP:0000692
+Odontodysplasia // HP:0000694
+Natal tooth // HP:0000695
+Delayed eruption of permanent teeth // HP:0000696
+Conical tooth // HP:0000698
+Diastema // HP:0000699
+Periapical bone loss // HP:0000700
+Dentinogenesis imperfecta // HP:0000703
+Periodontitis // HP:0000704
+Amelogenesis imperfecta // HP:0000705
+Eruption failure // HP:0000706
+Atypical behavior // HP:0000708
+Psychosis // HP:0000709
+Hyperorality // HP:0000710
+Restlessness // HP:0000711
+Emotional lability // HP:0000712
+Agitation // HP:0000713
+Depression // HP:0000716
+Autism // HP:0000717
+Aggressive behavior // HP:0000718
+Inappropriate behavior // HP:0000719
+Lack of spontaneous play // HP:0000721
+Compulsive behaviors // HP:0000722
+Restrictive behavior // HP:0000723
+Psychotic episodes // HP:0000725
+Dementia // HP:0000726
+Frontal lobe dementia // HP:0000727
+Impaired ability to form peer relationships // HP:0000728
+Autistic behavior // HP:0000729
+Inflexible adherence to routines // HP:0000732
+Abnormal repetitive mannerisms // HP:0000733
+Disinhibition // HP:0000734
+Impaired social interactions // HP:0000735
+Short attention span // HP:0000736
+Irritability // HP:0000737
+Hallucinations // HP:0000738
+Anxiety // HP:0000739
+Episodic paroxysmal anxiety // HP:0000740
+Apathy // HP:0000741
+Self-mutilation // HP:0000742
+Frontal release signs // HP:0000743
+Low frustration tolerance // HP:0000744
+Diminished motivation // HP:0000745
+Delusions // HP:0000746
+Inappropriate laughter // HP:0000748
+Paroxysmal bursts of laughter // HP:0000749
+Delayed speech and language development // HP:0000750
+Personality changes // HP:0000751
+Hyperactivity // HP:0000752
+Autism with high cognitive abilities // HP:0000753
+Agoraphobia // HP:0000756
+Lack of insight // HP:0000757
+Abnormal nonverbal communicative behavior // HP:0000758
+Abnormal peripheral nervous system morphology // HP:0000759
+Decreased nerve conduction velocity // HP:0000762
+Sensory neuropathy // HP:0000763
+Peripheral axonal degeneration // HP:0000764
+Abnormal thorax morphology // HP:0000765
+Abnormal sternum morphology // HP:0000766
+Pectus excavatum // HP:0000767
+Pectus carinatum // HP:0000768
+Gynecomastia // HP:0000771
+Abnormal rib morphology // HP:0000772
+Short ribs // HP:0000773
+Narrow chest // HP:0000774
+Abnormality of the diaphragm // HP:0000775
+Congenital diaphragmatic hernia // HP:0000776
+Abnormal thymus morphology // HP:0000777
+Hypoplasia of the thymus // HP:0000778
+Abnormal scapula morphology // HP:0000782
+Hematuria // HP:0000790
+Hypergonadotropic hypogonadism // HP:0000815
+Abnormality of Krebs cycle metabolism // HP:0000816
+Reduced eye contact // HP:0000817
+Diabetes mellitus // HP:0000819
+Abnormality of the thyroid gland // HP:0000820
+Hypothyroidism // HP:0000821
+Hypertension // HP:0000822
+Delayed puberty // HP:0000823
+Decreased response to growth hormone stimulation test // HP:0000824
+Hyperinsulinemic hypoglycemia // HP:0000825
+Anterior hypopituitarism // HP:0000830
+Insulin-resistant diabetes mellitus // HP:0000831
+Increased circulating gonadotropin level // HP:0000837
+Pituitary dwarfism // HP:0000839
+Hyperinsulinemia // HP:0000842
+Elevated circulating growth hormone concentration // HP:0000845
+Thyroid adenoma // HP:0000854
+Insulin resistance // HP:0000855
+Neonatal insulin-dependent diabetes mellitus // HP:0000857
+Increased circulating prolactin concentration // HP:0000870
+Panhypopituitarism // HP:0000871
+Episodic hypertension // HP:0000875
+11 pairs of ribs // HP:0000878
+Short sternum // HP:0000879
+Hypoplastic scapulae // HP:0000882
+Thin ribs // HP:0000883
+Prominent sternum // HP:0000884
+Broad ribs // HP:0000885
+Deformed rib cage // HP:0000886
+Cupped ribs // HP:0000887
+Horizontal ribs // HP:0000888
+Abnormal clavicle morphology // HP:0000889
+Abnormal diaphysis morphology // HP:0000940
+Short diaphyses // HP:0000941
+Dysostosis multiplex // HP:0000943
+Abnormal metaphysis morphology // HP:0000944
+Hypoplastic ilia // HP:0000946
+Dumbbell-shaped long bone // HP:0000947
+Abnormality of the skin // HP:0000951
+Jaundice // HP:0000952
+Hyperpigmentation of the skin // HP:0000953
+Single transverse palmar crease // HP:0000954
+Acanthosis nigricans // HP:0000956
+Cafe-au-lait spot // HP:0000957
+Dry skin // HP:0000958
+Sacral dimple // HP:0000960
+Cyanosis // HP:0000961
+Hyperkeratosis // HP:0000962
+Thin skin // HP:0000963
+Eczema // HP:0000964
+Cutis marmorata // HP:0000965
+Hypohidrosis // HP:0000966
+Petechiae // HP:0000967
+Ectodermal dysplasia // HP:0000968
+Anhidrosis // HP:0000970
+Abnormal sweat gland morphology // HP:0000971
+Palmoplantar hyperkeratosis // HP:0000972
+Cutis laxa // HP:0000973
+Hyperextensible skin // HP:0000974
+Hyperhidrosis // HP:0000975
+Eczematoid dermatitis // HP:0000976
+Soft skin // HP:0000977
+Bruising susceptibility // HP:0000978
+Purpura // HP:0000979
+Pallor // HP:0000980
+Palmoplantar keratoderma // HP:0000982
+Atypical scarring of skin // HP:0000987
+Skin rash // HP:0000988
+Pruritus // HP:0000989
+Xanthomatosis // HP:0000991
+Cutaneous photosensitivity // HP:0000992
+Molluscoid pseudotumors // HP:0000993
+Melanocytic nevus // HP:0000995
+Facial capillary hemangioma // HP:0000996
+Axillary freckling // HP:0000997
+Hypertrichosis // HP:0000998
+Pyoderma // HP:0000999
+Abnormality of skin pigmentation // HP:0001000
+Abnormality of subcutaneous fat tissue // HP:0001001
+Multiple lentigines // HP:0001003
+Dermatological manifestations of systemic disorders // HP:0001005
+Hirsutism // HP:0001007
+Accumulation of melanosomes in melanocytes // HP:0001008
+Telangiectasia // HP:0001009
+Hypopigmentation of the skin // HP:0001010
+Multiple lipomas // HP:0001012
+Eruptive xanthomas // HP:0001013
+Angiokeratoma // HP:0001014
+Prominent superficial veins // HP:0001015
+Anemic pallor // HP:0001017
+Abnormal palmar dermatoglyphics // HP:0001018
+Erythroderma // HP:0001019
+Albinism // HP:0001022
+Skin dimple over apex of long bone angulation // HP:0001024
+Urticaria // HP:0001025
+Penetrating foot ulcers // HP:0001026
+Soft, doughy skin // HP:0001027
+Hemangioma // HP:0001028
+Poikiloderma // HP:0001029
+Fragile skin // HP:0001030
+Subcutaneous lipoma // HP:0001031
+Absent distal interphalangeal creases // HP:0001032
+Facial flushing after alcohol intake // HP:0001033
+Hypermelanotic macule // HP:0001034
+Parakeratosis // HP:0001036
+Warfarin-induced skin necrosis // HP:0001038
+Atheroeruptive xanthoma // HP:0001039
+Multiple pterygia // HP:0001040
+Facial erythema // HP:0001041
+High axial triradius // HP:0001042
+Prominent scalp veins // HP:0001043
+Vitiligo // HP:0001045
+Intermittent jaundice // HP:0001046
+Atopic dermatitis // HP:0001047
+Cavernous hemangioma // HP:0001048
+Absent dorsal skin creases over affected joints // HP:0001049
+Plethora // HP:0001050
+Seborrheic dermatitis // HP:0001051
+Nevus flammeus // HP:0001052
+Hypopigmented skin patches // HP:0001053
+Numerous nevi // HP:0001054
+Erysipelas // HP:0001055
+Milia // HP:0001056
+Aplasia cutis congenita // HP:0001057
+Poor wound healing // HP:0001058
+Pterygium // HP:0001059
+Axillary pterygium // HP:0001060
+Acne // HP:0001061
+Atypical nevus // HP:0001062
+Acrocyanosis // HP:0001063
+Striae distensae // HP:0001065
+Neurofibroma // HP:0001067
+Episodic hyperhidrosis // HP:0001069
+Mottled pigmentation // HP:0001070
+Angiokeratoma corporis diffusum // HP:0001071
+Thickened skin // HP:0001072
+Cigarette-paper scars // HP:0001073
+Atypical nevi in non-sun exposed areas // HP:0001074
+Atrophic scars // HP:0001075
+Glabellar hemangioma // HP:0001076
+Biliary tract abnormality // HP:0001080
+Cholelithiasis // HP:0001081
+Cholecystitis // HP:0001082
+Absent lacrimal punctum // HP:0001092
+Keratoconjunctivitis // HP:0001096
+Keratoconjunctivitis sicca // HP:0001097
+Periorbital hyperpigmentation // HP:0001106
+Xanthelasma // HP:0001114
+Cryptophthalmos // HP:0001126
+Trichiasis // HP:0001128
+Retinal arteriolar tortuosity // HP:0001136
+Limbal dermoid // HP:0001140
+Orbital cyst // HP:0001144
+Abnormality of the hand // HP:0001155
+Brachydactyly // HP:0001156
+Syndactyly // HP:0001159
+Hand polydactyly // HP:0001161
+Postaxial hand polydactyly // HP:0001162
+Arachnodactyly // HP:0001166
+Abnormal finger morphology // HP:0001167
+Broad palm // HP:0001169
+Split hand // HP:0001171
+Abnormal thumb morphology // HP:0001172
+Large hands // HP:0001176
+Preaxial hand polydactyly // HP:0001177
+Ulnar claw // HP:0001178
+Hand oligodactyly // HP:0001180
+Adducted thumb // HP:0001181
+Tapered finger // HP:0001182
+Hyperextensibility of the finger joints // HP:0001187
+Hand clenching // HP:0001188
+Abnormal carpal morphology // HP:0001191
+Ulnar deviation of the hand or of fingers of the hand // HP:0001193
+Abnormalities of placenta or umbilical cord // HP:0001194
+Single umbilical artery // HP:0001195
+Short umbilical cord // HP:0001196
+Triphalangeal thumb // HP:0001199
+Distal symphalangism of hands // HP:0001204
+Abnormal fingertip morphology // HP:0001211
+Prominent fingertip pads // HP:0001212
+Camptodactyly of 2nd-5th fingers // HP:0001215
+Delayed ossification of carpal bones // HP:0001216
+Clubbing // HP:0001217
+Autoamputation // HP:0001218
+Interphalangeal joint contracture of finger // HP:0001220
+Spatulate thumbs // HP:0001222
+Pointed proximal second through fifth metacarpals // HP:0001223
+Wrist swelling // HP:0001225
+Abnormality of the thenar eminence // HP:0001227
+Broad metacarpals // HP:0001230
+Abnormal fingernail morphology // HP:0001231
+Nail bed telangiectasia // HP:0001232
+2-3 finger syndactyly // HP:0001233
+Hitchhiker thumb // HP:0001234
+Slender finger // HP:0001238
+Wrist flexion contracture // HP:0001239
+Capitate-hamate fusion // HP:0001241
+Small thenar eminence // HP:0001245
+Short tubular bones of the hand // HP:0001248
+Intellectual disability // HP:0001249
+Seizure // HP:0001250
+Ataxia // HP:0001251
+Hypotonia // HP:0001252
+Lethargy // HP:0001254
+Intellectual disability, mild // HP:0001256
+Spasticity // HP:0001257
+Spastic paraplegia // HP:0001258
+Coma // HP:0001259
+Dysarthria // HP:0001260
+Excessive daytime somnolence // HP:0001262
+Global developmental delay // HP:0001263
+Spastic diplegia // HP:0001264
+Hyporeflexia // HP:0001265
+Choreoathetosis // HP:0001266
+Mental deterioration // HP:0001268
+Hemiparesis // HP:0001269
+Motor delay // HP:0001270
+Polyneuropathy // HP:0001271
+Cerebellar atrophy // HP:0001272
+Abnormal corpus callosum morphology // HP:0001273
+Agenesis of corpus callosum // HP:0001274
+Hypertonia // HP:0001276
+Orthostatic hypotension // HP:0001278
+Tetany // HP:0001281
+Bulbar palsy // HP:0001283
+Areflexia // HP:0001284
+Spastic tetraparesis // HP:0001285
+Meningitis // HP:0001287
+Gait disturbance // HP:0001288
+Confusion // HP:0001289
+Generalized hypotonia // HP:0001290
+Abnormal cranial nerve morphology // HP:0001291
+Cranial nerve compression // HP:0001293
+Stroke // HP:0001297
+Encephalopathy // HP:0001298
+Parkinsonism // HP:0001300
+Chronic sensorineural polyneuropathy // HP:0001301
+Pachygyria // HP:0001302
+Torsion dystonia // HP:0001304
+Dandy-Walker malformation // HP:0001305
+Tongue fasciculations // HP:0001308
+Neonatal hypotonia // HP:0001319
+Muscle weakness // HP:0001324
+Cerebral hemorrhage // HP:0001342
+Facial diplegia // HP:0001349
+Plagiocephaly // HP:0001357
+Calvarial skull defect // HP:0001362
+Craniosynostosis // HP:0001363
+Abnormal joint morphology // HP:0001367
+Arthritis // HP:0001369
+Rheumatoid arthritis // HP:0001370
+Flexion contracture // HP:0001371
+Joint dislocation // HP:0001373
+Congenital hip dislocation // HP:0001374
+Limitation of joint mobility // HP:0001376
+Limited elbow extension // HP:0001377
+Joint hypermobility // HP:0001382
+Abnormal hip joint morphology // HP:0001384
+Hip dysplasia // HP:0001385
+Joint swelling // HP:0001386
+Joint stiffness // HP:0001387
+Joint laxity // HP:0001388
+Abnormality of the liver // HP:0001392
+Cirrhosis // HP:0001394
+Hepatic fibrosis // HP:0001395
+Cholestasis // HP:0001396
+Abnormality of the musculature of the hand // HP:0001421
+Abnormality of the calf musculature // HP:0001430
+Abnormality of the shoulder girdle musculature // HP:0001435
+Abnormality of the foot musculature // HP:0001436
+Abnormality of the musculature of the lower limbs // HP:0001437
+Metatarsal synostosis // HP:0001440
+Abnormality of the musculature of the thigh // HP:0001441
+Abnormality of the gluteal musculature // HP:0001443
+Abnormality of the hip-girdle musculature // HP:0001445
+Abnormality of the musculature of the upper limbs // HP:0001446
+Duplication of metatarsal bones // HP:0001449
+Abnormality of the upper arm // HP:0001454
+Abnormality of the musculature of the upper arm // HP:0001457
+1-3 toe syndactyly // HP:0001459
+Microretrognathia // HP:0000308
+Abnormal midface morphology // HP:0000309
+Round face // HP:0000311
+Abnormality of the orbital region // HP:0000315
+Facial myokymia // HP:0000317
+Smooth philtrum // HP:0000319
+Bird-like facies // HP:0000320
+Square face // HP:0000321
+Short philtrum // HP:0000322
+Facial asymmetry // HP:0000324
+Triangular face // HP:0000325
+Abnormal maxilla morphology // HP:0000326
+Hypoplasia of the maxilla // HP:0000327
+Facial hemangioma // HP:0000329
+Short chin // HP:0000331
+Prominent supraorbital ridges // HP:0000336
+Broad forehead // HP:0000337
+Hypomimic face // HP:0000338
+Pugilistic facies // HP:0000339
+Sloping forehead // HP:0000340
+Narrow forehead // HP:0000341
+Long philtrum // HP:0000343
+Whistling appearance // HP:0000346
+Micrognathia // HP:0000347
+High forehead // HP:0000348
+Widow's peak // HP:0000349
+Small forehead // HP:0000350
+Abnormality of the outer ear // HP:0000356
+Abnormal location of ears // HP:0000357
+Posteriorly rotated ears // HP:0000358
+Abnormality of the inner ear // HP:0000359
+Tinnitus // HP:0000360
+Otosclerosis // HP:0000362
+Abnormal earlobe morphology // HP:0000363
+Hearing abnormality // HP:0000364
+Hearing impairment // HP:0000365
+Abnormality of the nose // HP:0000366
+Low-set, posteriorly rotated ears // HP:0000368
+Abnormal periauricular region morphology // HP:0000383
+Preauricular skin tag // HP:0000384
+Bulbous nose // HP:0000414
+Abnormality of the choanae // HP:0000415
+Slender nose // HP:0000417
+Narrow nasal ridge // HP:0000418
+Abnormal nasal septum morphology // HP:0000419
+Short nasal septum // HP:0000420
+Epistaxis // HP:0000421
+Abnormal nasal bridge morphology // HP:0000422
+Prominent nasal bridge // HP:0000426
+Abnormal morphology of the nasal alae // HP:0000429
+Underdeveloped nasal alae // HP:0000430
+Wide nasal bridge // HP:0000431
+Abnormal nasal mucosa morphology // HP:0000433
+Nasal mucosa telangiectasia // HP:0000434
+Abnormal nasal tip morphology // HP:0000436
+Depressed nasal tip // HP:0000437
+Convex nasal ridge // HP:0000444
+Wide nose // HP:0000445
+Narrow nasal bridge // HP:0000446
+Pear-shaped nose // HP:0000447
+Prominent nose // HP:0000448
+Triangular nasal tip // HP:0000451
+Choanal stenosis // HP:0000452
+Choanal atresia // HP:0000453
+Flared nostrils // HP:0000454
+Broad nasal tip // HP:0000455
+Bifid nasal tip // HP:0000456
+Depressed nasal ridge // HP:0000457
+Anosmia // HP:0000458
+Narrow nose // HP:0000460
+Anteverted nares // HP:0000463
+Abnormality of the neck // HP:0000464
+Webbed neck // HP:0000465
+Limited neck range of motion // HP:0000466
+Neck muscle weakness // HP:0000467
+Increased adipose tissue around the neck // HP:0000468
+Short neck // HP:0000470
+Long neck // HP:0000472
+Torticollis // HP:0000473
+Thickened nuchal skin fold // HP:0000474
+Broad neck // HP:0000475
+Cystic hygroma // HP:0000476
+Aplasia/Hypoplasia involving the musculature of the upper limbs // HP:0001467
+Aplasia/Hypoplasia involving the musculature of the upper arm // HP:0001468
+Abnormal morphology of the pelvis musculature // HP:0001469
+Aplasia/Hypoplasia of the musculature of the pelvis // HP:0001471
+Metatarsal osteolysis // HP:0001473
+Sclerotic scapulae // HP:0001474
+Delayed closure of the anterior fontanelle // HP:0001476
+Freckling // HP:0001480
+Subcutaneous nodule // HP:0001482
+Congenital fibrosis of extraocular muscles // HP:0001491
+Carpal osteolysis // HP:0001495
+Carpal bone hypoplasia // HP:0001498
+Broad finger // HP:0001500
+6 metacarpals // HP:0001501
+Metacarpal osteolysis // HP:0001504
+Failure to thrive // HP:0001508
+Growth delay // HP:0001510
+Intrauterine growth retardation // HP:0001511
+Obesity // HP:0001513
+Small for gestational age // HP:0001518
+Disproportionate tall stature // HP:0001519
+Large for gestational age // HP:0001520
+Hemihypertrophy // HP:0001528
+Umbilical hernia // HP:0001537
+Omphalocele // HP:0001539
+Diastasis recti // HP:0001540
+Abnormal rib cage morphology // HP:0001547
+Barrel-shaped chest // HP:0001552
+Asymmetry of the thorax // HP:0001555
+Prenatal movement abnormality // HP:0001557
+Decreased fetal movement // HP:0001558
+Abnormality of the amniotic fluid // HP:0001560
+Polyhydramnios // HP:0001561
+Oligohydramnios // HP:0001562
+Fetal polyuria // HP:0001563
+Widely-spaced maxillary central incisors // HP:0001566
+Multiple impacted teeth // HP:0001571
+Macrodontia // HP:0001572
+Recurrent skin infections // HP:0001581
+Redundant skin // HP:0001582
+Bell-shaped thorax // HP:0001591
+Selective tooth agenesis // HP:0001592
+Maxillary lateral incisor microdontia // HP:0001593
+Abnormal hair morphology // HP:0001595
+Alopecia // HP:0001596
+Abnormality of the nail // HP:0001597
+Concave nail // HP:0001598
+Abnormality of the larynx // HP:0001600
+Laryngomalacia // HP:0001601
+Laryngeal stenosis // HP:0001602
+Vocal cord paresis // HP:0001604
+Vocal cord paralysis // HP:0001605
+Subglottic stenosis // HP:0001607
+Hoarse voice // HP:0001609
+Hypernasal speech // HP:0001611
+Weak cry // HP:0001612
+Hoarse cry // HP:0001615
+Dysphonia // HP:0001618
+Weak voice // HP:0001621
+Sudden cardiac death // HP:0001645
+Loss of voice // HP:0001686
+Sudden death // HP:0001699
+Coronary artery calcification // HP:0001717
+Thromboembolic stroke // HP:0001727
+Long clavicles // HP:0000890
+Cervical ribs // HP:0000891
+Bifid ribs // HP:0000892
+Bulging of the costochondral junction // HP:0000893
+Short clavicles // HP:0000894
+Lateral clavicle hook // HP:0000895
+Rib exostoses // HP:0000896
+Rachitic rosary // HP:0000897
+Thickened ribs // HP:0000900
+Rib fusion // HP:0000902
+Flaring of rib cage // HP:0000904
+Progressive clavicular acroosteolysis // HP:0000905
+Anterior rib cupping // HP:0000907
+Wide-cupped costochondral junctions // HP:0000910
+Flat glenoid fossa // HP:0000911
+Sprengel anomaly // HP:0000912
+Posterior rib fusion // HP:0000913
+Shield chest // HP:0000914
+Pectus excavatum of inferior sternum // HP:0000915
+Broad clavicles // HP:0000916
+Superior pectus carinatum // HP:0000917
+Scapular exostoses // HP:0000918
+Abnormality of the costochondral junction // HP:0000919
+Enlargement of the costochondral junction // HP:0000920
+Missing ribs // HP:0000921
+Posterior rib cupping // HP:0000922
+Beaded ribs // HP:0000923
+Abnormality of the skeletal system // HP:0000924
+Abnormality of the vertebral column // HP:0000925
+Platyspondyly // HP:0000926
+Abnormality of skeletal maturation // HP:0000927
+Abnormal skull morphology // HP:0000929
+Elevated imprint of the transverse sinuses // HP:0000930
+Thinning and bulging of the posterior fossa bones // HP:0000931
+Abnormal posterior cranial fossa morphology // HP:0000932
+Posterior fossa cyst at the fourth ventricle // HP:0000933
+Chondrocalcinosis // HP:0000934
+Thickened cortex of long bones // HP:0000935
+Osteopenia // HP:0000938
+Osteoporosis // HP:0000939
+Aplasia/Hypoplasia of toe // HP:0001991
+Gout // HP:0001997
+Abnormal facial shape // HP:0001999
+Short columella // HP:0002000
+Deep philtrum // HP:0002002
+Large forehead // HP:0002003
+Facial cleft // HP:0002006
+Frontal bossing // HP:0002007
+Potter facies // HP:0002009
+Narrow maxilla // HP:0002010
+Abdominal pain // HP:0002027
+Hiatus hernia // HP:0002036
+Heavy supraorbital ridges // HP:0002054
+Curved linear dimple below the lower lip // HP:0002055
+Abnormality of the glabella // HP:0002056
+Prominent glabella // HP:0002057
+Myopathic facies // HP:0002058
+Lower limb spasticity // HP:0002061
+Rigidity // HP:0002063
+Spastic gait // HP:0002064
+Encephalocele // HP:0002084
+Occipital encephalocele // HP:0002085
+Abnormality of the upper respiratory tract // HP:0002087
+Abnormal lung morphology // HP:0002088
+Pulmonary hypoplasia // HP:0002089
+Basal ganglia calcification // HP:0002135
+Subarachnoid hemorrhage // HP:0002138
+Low posterior hairline // HP:0002162
+Nail dysplasia // HP:0002164
+Pterygium of nails // HP:0002165
+Opisthotonus // HP:0002179
+Progressive spasticity // HP:0002191
+Respiratory paralysis // HP:0002203
+Coarse hair // HP:0002208
+Sparse scalp hair // HP:0002209
+White forelock // HP:0002211
+Curly hair // HP:0002212
+Fine hair // HP:0002213
+Sparse axillary hair // HP:0002215
+Premature graying of hair // HP:0002216
+Slow-growing hair // HP:0002217
+Silver-gray hair // HP:0002218
+Facial hypertrichosis // HP:0002219
+Melanin pigment aggregation in hair shafts // HP:0002220
+Absent axillary hair // HP:0002221
+Absent eyebrow // HP:0002223
+Woolly hair // HP:0002224
+Sparse pubic hair // HP:0002225
+White eyebrow // HP:0002226
+White eyelashes // HP:0002227
+Generalized hirsutism // HP:0002230
+Sparse body hair // HP:0002231
+Patchy alopecia // HP:0002232
+Early balding // HP:0002234
+Pili canaliculi // HP:0002235
+Frontal upsweep of hair // HP:0002236
+Chronic rhinitis // HP:0002257
+Exaggerated cupid's bow // HP:0002263
+Enlarged cisterna magna // HP:0002280
+Fair hair // HP:0002286
+Progressive alopecia // HP:0002287
+Alopecia universalis // HP:0002289
+Poliosis // HP:0002290
+Frontal balding // HP:0002292
+Alopecia of scalp // HP:0002293
+Progressive hypotrichosis // HP:0002296
+Red hair // HP:0002297
+Absent hair // HP:0002298
+Brittle hair // HP:0002299
+Drooling // HP:0002307
+Spastic paraparesis // HP:0002313
+Difficulty walking // HP:0002355
+Frequent falls // HP:0002359
+Cogwheel rigidity // HP:0002396
+Poor head control // HP:0002421
+Limb hypertonia // HP:0002509
+Spastic tetraplegia // HP:0002510
+Cerebral calcification // HP:0002514
+Areflexia of lower limbs // HP:0002522
+Retrocollis // HP:0002544
+Absent facial hair // HP:0002550
+Trichodysplasia // HP:0002552
+Highly arched eyebrow // HP:0002553
+Absent pubic hair // HP:0002555
+Hypoplastic nipples // HP:0002557
+Supernumerary nipple // HP:0002558
+Absent nipple // HP:0002561
+Low-set nipples // HP:0002562
+Episodic abdominal pain // HP:0002574
+Gastroparesis // HP:0002578
+Hyporeflexia of lower limbs // HP:0002600
+Paresis of extensor muscles of the big toe // HP:0002601
+Gastrointestinal telangiectasia // HP:0002604
+Bowel incontinence // HP:0002607
+Abnormal pelvic girdle bone morphology // HP:0002644
+Wormian bones // HP:0002645
+Scoliosis // HP:0002650
+Spondyloepimetaphyseal dysplasia // HP:0002651
+Skeletal dysplasia // HP:0002652
+Bone pain // HP:0002653
+Multiple epiphyseal dysplasia // HP:0002654
+Spondyloepiphyseal dysplasia // HP:0002655
+Lymphoma // HP:0002665
+Pheochromocytoma // HP:0002666
+Nephroblastoma // HP:0002667
+Paraganglioma // HP:0002668
+Osteosarcoma // HP:0002669
+Basal cell carcinoma // HP:0002671
+Coxa valga // HP:0002673
+Cloverleaf skull // HP:0002676
+Small foramen magnum // HP:0002677
+Skull asymmetry // HP:0002678
+Abnormal sella turcica morphology // HP:0002679
+J-shaped sella turcica // HP:0002680
+Deformed sella turcica // HP:0002681
+Broad skull // HP:0002682
+Abnormal calvaria morphology // HP:0002683
+Thickened calvaria // HP:0002684
+Abnormality of frontal sinus // HP:0002687
+Absent frontal sinuses // HP:0002688
+Absent paranasal sinuses // HP:0002689
+Large sella turcica // HP:0002690
+Platybasia // HP:0002691
+Hypoplastic facial bones // HP:0002692
+Abnormal skull base morphology // HP:0002693
+Sclerosis of skull base // HP:0002694
+Abnormal parietal bone morphology // HP:0002696
+Parietal foramina // HP:0002697
+Abnormal foramen magnum morphology // HP:0002699
+Large foramen magnum // HP:0002700
+Abnormality of skull ossification // HP:0002703
+High, narrow palate // HP:0002705
+Palate telangiectasia // HP:0002707
+Prominent median palatal raphe // HP:0002708
+Commissural lip pit // HP:0002710
+Exaggerated median tongue furrow // HP:0002711
+Downturned corners of mouth // HP:0002714
+Decreased circulating IgA level // HP:0002720
+Aplasia/Hypoplasia involving the shoulder musculature // HP:0001464
+Amyotrophy involving the shoulder musculature // HP:0001465
+Metaphyseal widening // HP:0003016
+Abnormality of the wrist // HP:0003019
+Enlargement of the wrists // HP:0003020
+Metaphyseal cupping // HP:0003021
+Hypoplasia of the ulna // HP:0003022
+Metaphyseal irregularity // HP:0003025
+Mesomelia // HP:0003027
+Abnormality of the ankle // HP:0003028
+Enlargement of the ankles // HP:0003029
+Ulnar bowing // HP:0003031
+Diaphyseal sclerosis // HP:0003034
+Fibular hypoplasia // HP:0003038
+Humeroradial synostosis // HP:0003041
+Elbow dislocation // HP:0003042
+Abnormal patella morphology // HP:0003045
+Ulnar deviation of the wrist // HP:0003049
+Enlarged metaphyses // HP:0003051
+Tetraamelia // HP:0003057
+Abnormality of the radioulnar joints // HP:0003059
+Abnormality of the humerus // HP:0003063
+Patellar hypoplasia // HP:0003065
+Limited knee extension // HP:0003066
+Madelung deformity // HP:0003067
+Madelung-like forearm deformities // HP:0003068
+Elbow ankylosis // HP:0003070
+Defective DNA repair after ultraviolet radiation damage // HP:0003079
+Dislocated radial head // HP:0003083
+Long fibula // HP:0003085
+Acromesomelia // HP:0003086
+Hypoplasia of the capital femoral epiphysis // HP:0003090
+Short femur // HP:0003097
+Fibular overgrowth // HP:0003099
+Increased carrying angle // HP:0003102
+Subperiosteal bone resorption // HP:0003106
+Panhypogammaglobulinemia // HP:0003139
+Elevated serum acid phosphatase // HP:0003148
+Abnormal acetabulum morphology // HP:0003170
+Protrusio acetabuli // HP:0003179
+Flat acetabular roof // HP:0003180
+Shallow acetabular fossae // HP:0003182
+Inverted nipples // HP:0003186
+Breast hypoplasia // HP:0003187
+Long nose // HP:0003189
+Cleft ala nasi // HP:0003191
+Allergic rhinitis // HP:0003193
+Short nasal bridge // HP:0003194
+Short nose // HP:0003196
+Intracellular accumulation of autofluorescent lipopigment storage material // HP:0003204
+Curvilinear intracellular accumulation of autofluorescent lipopigment storage material // HP:0003205
+Fingerprint intracellular accumulation of autofluorescent lipopigment storage material // HP:0003208
+Increased circulating IgE level // HP:0003212
+Deficient excision of UV-induced pyrimidine dimers in DNA // HP:0003213
+Prolonged G2 phase of cell cycle // HP:0003214
+Hip contracture // HP:0003273
+Hypoplastic acetabulae // HP:0003274
+Pelvic bone exostoses // HP:0003276
+Limb-girdle muscle weakness // HP:0003325
+Myalgia // HP:0003326
+Abnormal hairshaft morphology // HP:0003328
+Hair shafts flattened at irregular intervals and twisted through 180 degrees about their axes // HP:0003329
+Absent primary metaphyseal spongiosa // HP:0003332
+Lamina lucida cleavage // HP:0003341
+Abnormal femoral neck/head morphology // HP:0003366
+Abnormal femoral neck morphology // HP:0003367
+Abnormal femoral head morphology // HP:0003368
+Flat capital femoral epiphysis // HP:0003370
+Enlargement of the proximal femoral epiphysis // HP:0003371
+Thenar muscle atrophy // HP:0003393
+Proximal femoral metaphyseal irregularity // HP:0003411
+Back pain // HP:0003418
+Low back pain // HP:0003419
+Thenar muscle weakness // HP:0003427
+Absent Achilles reflex // HP:0003438
+Upper limb muscle weakness // HP:0003484
+Hypothalamic hamartoma // HP:0002444
+Acute leukemia // HP:0002488
+Spasticity of facial muscles // HP:0002491
+Curved fingers // HP:0004095
+Deviation of finger // HP:0004097
+Macrodactyly // HP:0004099
+Abnormal 2nd finger morphology // HP:0004100
+Midline nasal groove // HP:0004112
+Midline defect of the nose // HP:0004122
+Dimple on nasal tip // HP:0004132
+Abnormal 3rd finger morphology // HP:0004150
+Abnormality of the middle phalanx of the 3rd finger // HP:0004172
+Short distal phalanx of the 3rd finger // HP:0004180
+Abnormal 4th finger morphology // HP:0004188
+Osteolytic defects of the phalanges of the 4th finger // HP:0004195
+Symphalangism of the 4th finger // HP:0004197
+Abnormal 5th finger morphology // HP:0004207
+Clinodactyly of the 5th finger // HP:0004209
+Abnormal 5th finger phalanx morphology // HP:0004213
+Curved phalanges of the 5th finger // HP:0004214
+Osteolytic defects of the phalanges of the 5th finger // HP:0004216
+Symphalangism of the 5th finger // HP:0004218
+Abnormality of the middle phalanx of the 5th finger // HP:0004219
+Short middle phalanx of the 5th finger // HP:0004220
+Cone-shaped epiphysis of the distal phalanx of the 5th finger // HP:0004222
+Ivory epiphysis of the distal phalanx of the 5th finger // HP:0004223
+Abnormality of the epiphysis of the middle phalanx of the 5th finger // HP:0004224
+Abnormality of the distal phalanx of the 5th finger // HP:0004225
+Curved distal phalanx of the 5th finger // HP:0004226
+Short distal phalanx of the 5th finger // HP:0004227
+Subluxation of the proximal interphalangeal joint of the little finger // HP:0004230
+Carpal bone aplasia // HP:0004231
+Accessory carpal bones // HP:0004232
+Advanced ossification of carpal bones // HP:0004233
+Bone-in-a-bone appearance of carpal bones // HP:0004234
+Comma-shaped carpal bones // HP:0004235
+Irregular carpal bones // HP:0004236
+Large carpal bones // HP:0004237
+Lytic defects of carpal bones // HP:0004238
+Proximally placed carpal bones // HP:0004239
+Sclerotic foci within carpal bones // HP:0004240
+Stippled calcification in carpal bones // HP:0004241
+Broad carpal bones // HP:0004242
+Abnormality of the scaphoid // HP:0004243
+Accessory scaphoid // HP:0004244
+Comma-shaped scaphoid // HP:0004245
+Delayed ossification of the scaphoid // HP:0004246
+Small scaphoid // HP:0004247
+Abnormality of the lunate bone // HP:0004248
+Accessory lunate // HP:0004249
+Proximally placed lunate // HP:0004250
+Lunate-triquetral fusion // HP:0004251
+Abnormality of the trapezium // HP:0004252
+Absent trapezium // HP:0004253
+Delayed ossification of the trapezium // HP:0004254
+Small trapezium // HP:0004255
+Abnormality of the trapezoid bone // HP:0004256
+Delayed ossification of the trapezoid bone // HP:0004257
+Small trapezoid bone // HP:0004258
+Abnormality of the hamate bone // HP:0004259
+Large hamate bone // HP:0004260
+Wide hamate bone // HP:0004261
+Abnormality of the capitate bone // HP:0004262
+Large capitate bone // HP:0004263
+Narrow carpal joint spaces // HP:0004264
+Narrow small joints of the hand // HP:0004267
+Osteoarthritis of the small joints of the hand // HP:0004268
+Subluxation of the small joints of the hand // HP:0004269
+Cortical thickening of hand bones // HP:0004271
+Cortical thinning of hand bones // HP:0004272
+Cupped metaphyses of hand bones // HP:0004273
+Deficient ossification of hand bones // HP:0004274
+Duplication of hand bones // HP:0004275
+Exostoses of hand bones // HP:0004276
+Fractured hand bones // HP:0004277
+Synostosis involving bones of the hand // HP:0004278
+Short palm // HP:0004279
+Irregular ossification of hand bones // HP:0004280
+Narrow palm // HP:0004283
+Notched hand bones // HP:0004284
+Overmodelled hand bones // HP:0004285
+Pointed hand bones // HP:0004287
+Pseudoepiphyses of hand bones // HP:0004288
+Stippled calcification of hand bones // HP:0004291
+Increased skull ossification // HP:0004330
+Decreased skull ossification // HP:0004331
+Dermal atrophy // HP:0004334
+Neoplasm of the nervous system // HP:0004375
+Neuroblastic tumor // HP:0004376
+Hematological neoplasm // HP:0004377
+Hamartomatous polyposis // HP:0004390
+Abnormal nipple morphology // HP:0004404
+Prominent nipples // HP:0004405
+Spontaneous, recurrent epistaxis // HP:0004406
+Bony paranasal bossing // HP:0004407
+Abnormality of the sense of smell // HP:0004408
+Hyposmia // HP:0004409
+Deviated nasal septum // HP:0004411
+Biparietal narrowing // HP:0004422
+Cranium bifidum occultum // HP:0004423
+Flat forehead // HP:0004425
+Abnormal cheek morphology // HP:0004426
+Elfin facies // HP:0004428
+Cranial hyperostosis // HP:0004437
+Hyperostosis frontalis interna // HP:0004438
+Craniofacial dysostosis // HP:0004439
+Coronal craniosynostosis // HP:0004440
+Sagittal craniosynostosis // HP:0004442
+Lambdoidal craniosynostosis // HP:0004443
+Preauricular skin furrow // HP:0004450
+Postauricular skin tag // HP:0004451
+Exostosis of the external auditory canal // HP:0004459
+Postauricular pit // HP:0004464
+Preauricular pit // HP:0004467
+Atretic occipital cephalocele // HP:0004470
+Aplasia cutis congenita over the scalp vertex // HP:0004471
+Mandibular hyperostosis // HP:0004472
+Persistent open anterior fontanelle // HP:0004474
+Aplasia cutis congenita over parietal area // HP:0004476
+Ethmoidal encephalocele // HP:0004478
+Progressive macrocephaly // HP:0004481
+Relative macrocephaly // HP:0004482
+Craniofacial asymmetry // HP:0004484
+Cessation of head growth // HP:0004485
+Acrobrachycephaly // HP:0004487
+Macrocephaly at birth // HP:0004488
+Calvarial hyperostosis // HP:0004490
+Large posterior fontanelle // HP:0004491
+Widely patent fontanelles and sutures // HP:0004492
+Craniofacial hyperostosis // HP:0004493
+Chronic rhinitis due to narrow nasal airway // HP:0004499
+Bilateral choanal atresia // HP:0004502
+Long eyebrows // HP:0004523
+Temporal hypotrichosis // HP:0004524
+Large clumps of pigment irregularly distributed along hair shaft // HP:0004527
+Generalized hypotrichosis // HP:0004528
+Atrophic, patchy alopecia // HP:0004529
+Sacral hypertrichosis // HP:0004532
+Anterior cervical hypertrichosis // HP:0004535
+Congenital, generalized hypertrichosis // HP:0004540
+Scarring alopecia of scalp // HP:0004552
+Generalized hypertrichosis // HP:0004554
+Increased spinal bone density // HP:0004563
+Hypoplasia of the nasal bone // HP:0004646
+Facial midline hemangioma // HP:0004664
+Deep longitudinal plantar crease // HP:0004681
+Sparse anterior scalp hair // HP:0004768
+Premature graying of body hair // HP:0004771
+Brittle scalp hair // HP:0004779
+Elbow hypertrichosis // HP:0004780
+Juvenile gastrointestinal polyposis // HP:0004784
+Hamartomatous stomach polyps // HP:0004795
+Acute myeloid leukemia // HP:0004808
+B Acute Lymphoblastic Leukemia // HP:0004812
+Acute myelomonocytic leukemia // HP:0004820
+Refractory anemia with ringed sideroblasts // HP:0004828
+Acute promyelocytic leukemia // HP:0004836
+Acute monocytic leukemia // HP:0004845
+Ph-positive acute lymphoblastic leukemia // HP:0004848
+Multiple long-bone exostoses // HP:0005039
+Arthralgia/arthritis // HP:0005059
+Multiple intestinal neurofibromatosis // HP:0005220
+Capillary hemangioma // HP:0005306
+Lack of facial subcutaneous fat // HP:0005320
+Extension of hair growth on temples to lateral eyebrow // HP:0005325
+Progeroid facial appearance // HP:0005328
+Forehead hyperpigmentation // HP:0005336
+Sparse lateral eyebrow // HP:0005338
+Recurrent bacterial skin infections // HP:0005406
+Leukemia // HP:0001909
+Pulmonary capillary hemangiomatosis // HP:0005954
+Humeral exostoses // HP:0003872
+Exostoses of the forearm bones // HP:0003960
+Exostoses of the ulna // HP:0003985
+Exostoses of the radius // HP:0003986
+Exostoses of the radial metaphysis // HP:0004017
+Wide intermamillary distance // HP:0006610
+Multifocal breast carcinoma // HP:0006625
+Glomus tympanicum paraganglioma // HP:0006715
+Peripheral neuroepithelioma // HP:0006717
+Acute lymphoblastic leukemia // HP:0006721
+Small intestine carcinoid // HP:0006722
+Intestinal carcinoid // HP:0006723
+Pancreatic adenocarcinoma // HP:0006725
+Unilateral vocal cord paralysis // HP:0008757
+Pneumomediastinum // HP:0025421
+Widened mediastinum // HP:0034501
+Narrow mediastinum // HP:0034502
+Abnormal mediastinum morphology // HP:0045026
+Mediastinal lymphadenopathy // HP:0100721

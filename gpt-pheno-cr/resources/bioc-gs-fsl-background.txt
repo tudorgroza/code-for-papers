@@ -1,0 +1,357 @@
+Inguinal hernia // HP:0000023
+Chordee // HP:0000041
+Abnormal labia morphology // HP:0000058
+Labial hypoplasia // HP:0000066
+Abnormality of the mouth // HP:0000153
+Wide mouth // HP:0000154
+Abnormality of the tongue // HP:0000157
+Macroglossia // HP:0000158
+Abnormal lip morphology // HP:0000159
+Narrow mouth // HP:0000160
+Abnormality of the dentition // HP:0000164
+Abnormal uvula morphology // HP:0000172
+Abnormal palate morphology // HP:0000174
+Cleft palate // HP:0000175
+Abnormal upper lip morphology // HP:0000177
+Thick lower lip vermilion // HP:0000179
+Cleft soft palate // HP:0000185
+Open mouth // HP:0000194
+Gingival overgrowth // HP:0000212
+Lip telangiectasia // HP:0000214
+High palate // HP:0000218
+Thin upper lip vermilion // HP:0000219
+Oral cavity telangiectasia // HP:0000228
+Thin vermilion border // HP:0000233
+Small anterior fontanelle // HP:0000237
+Abnormality of skull size // HP:0000240
+Trigonocephaly // HP:0000243
+Brachyturricephaly // HP:0000244
+Microcephaly // HP:0000252
+Macrocephaly // HP:0000256
+Dolichocephaly // HP:0000268
+Prominent occiput // HP:0000269
+Malar flattening // HP:0000272
+Long face // HP:0000276
+Coarse facial features // HP:0000280
+Facial edema // HP:0000282
+Epicanthus // HP:0000286
+Abnormality of the philtrum // HP:0000288
+Full cheeks // HP:0000293
+Low anterior hairline // HP:0000294
+Facial hypotonia // HP:0000297
+Mandibular prognathia // HP:0000303
+Microretrognathia // HP:0000308
+Round face // HP:0000311
+Hypertelorism // HP:0000316
+Smooth philtrum // HP:0000319
+Short philtrum // HP:0000322
+Facial asymmetry // HP:0000324
+Triangular face // HP:0000325
+Deeply set eye // HP:0000490
+Abnormal eyelid morphology // HP:0000492
+Downslanted palpebral fissures // HP:0000494
+Abnormal eyelash morphology // HP:0000499
+Telecanthus // HP:0000506
+Proptosis // HP:0000520
+Long eyelashes // HP:0000527
+Abnormal eyebrow morphology // HP:0000534
+Abnormality of refraction // HP:0000539
+Abnormal conjugate eye movement // HP:0000549
+Esotropia // HP:0000565
+Thick eyebrow // HP:0000574
+Upslanted palpebral fissure // HP:0000582
+Blue sclerae // HP:0000592
+Miosis // HP:0000616
+Periorbital fullness // HP:0000629
+Blue irides // HP:0000635
+Carious teeth // HP:0000670
+Oligodontia // HP:0000677
+Widely spaced teeth // HP:0000687
+Microdontia // HP:0000691
+Tooth malposition // HP:0000692
+Irritability // HP:0000737
+Anxiety // HP:0000739
+Pectus carinatum // HP:0000768
+Narrow chest // HP:0000774
+Short chin // HP:0000331
+Sloping forehead // HP:0000340
+Narrow forehead // HP:0000341
+Long philtrum // HP:0000343
+Micrognathia // HP:0000347
+Abnormal location of ears // HP:0000357
+Posteriorly rotated ears // HP:0000358
+Low-set, posteriorly rotated ears // HP:0000368
+Low-set ears // HP:0000369
+Cupped ear // HP:0000378
+Preauricular skin tag // HP:0000384
+Thickened helices // HP:0000391
+Overfolded helix // HP:0000396
+Macrotia // HP:0000400
+Protruding ear // HP:0000411
+Bulbous nose // HP:0000414
+Abnormal nasal bridge morphology // HP:0000422
+Prominent nasal bridge // HP:0000426
+Abnormal morphology of the nasal alae // HP:0000429
+Wide nasal bridge // HP:0000431
+Wide nose // HP:0000445
+Prominent nose // HP:0000448
+Broad nasal tip // HP:0000455
+Depressed nasal ridge // HP:0000457
+Anteverted nares // HP:0000463
+Webbed neck // HP:0000465
+Short neck // HP:0000470
+Thickened nuchal skin fold // HP:0000474
+Abnormality of the skin // HP:0000951
+Single transverse palmar crease // HP:0000954
+Cafe-au-lait spot // HP:0000957
+Sacral dimple // HP:0000960
+Edema // HP:0000969
+Pallor // HP:0000980
+Skin rash // HP:0000988
+Hypertrichosis // HP:0000998
+Telangiectasia // HP:0001009
+Prominent superficial veins // HP:0001015
+Hemangioma // HP:0001028
+Absent distal interphalangeal creases // HP:0001032
+Hypermelanotic macule // HP:0001034
+Prominent scalp veins // HP:0001043
+Plethora // HP:0001050
+Nevus flammeus // HP:0001052
+Striae distensae // HP:0001065
+Thickened skin // HP:0001072
+Brachydactyly // HP:0001156
+Syndactyly // HP:0001159
+Postaxial hand polydactyly // HP:0001162
+Arachnodactyly // HP:0001166
+Broad palm // HP:0001169
+Tapered finger // HP:0001182
+Deformed rib cage // HP:0000886
+Freckling // HP:0001480
+Bilateral ptosis // HP:0001488
+Umbilical hernia // HP:0001537
+Diastasis recti // HP:0001540
+Anteriorly placed anus // HP:0001545
+Abnormal umbilicus morphology // HP:0001551
+Widely-spaced maxillary central incisors // HP:0001566
+Abnormal hair morphology // HP:0001595
+Alopecia // HP:0001596
+Abnormality of the nail // HP:0001597
+Abnormal foot morphology // HP:0001760
+Pes planus // HP:0001763
+Short foot // HP:0001773
+Bilateral talipes equinovarus // HP:0001776
+Small nail // HP:0001792
+Hypoplastic toenails // HP:0001800
+Hypoplastic fingernail // HP:0001804
+Hallux valgus // HP:0001822
+Long foot // HP:0001833
+Broad toe // HP:0001837
+Rocker bottom foot // HP:0001838
+Metatarsus adductus // HP:0001840
+Overlapping toe // HP:0001845
+Sandal gap // HP:0001852
+Deep plantar creases // HP:0001869
+Talipes // HP:0001883
+Abnormal facial shape // HP:0001999
+Deep philtrum // HP:0002002
+Frontal bossing // HP:0002007
+Myopathic facies // HP:0002058
+Low posterior hairline // HP:0002162
+Clonus // HP:0002169
+Facial hypertrichosis // HP:0002219
+Frontal upsweep of hair // HP:0002236
+Hepatomegaly // HP:0002240
+Exaggerated cupid's bow // HP:0002263
+Lower limb hyperreflexia // HP:0002395
+Abnormal fingertip morphology // HP:0001211
+Prominent fingertip pads // HP:0001212
+Slender finger // HP:0001238
+Wrist flexion contracture // HP:0001239
+Hypotonia // HP:0001252
+Spasticity // HP:0001257
+Global developmental delay // HP:0001263
+Hypertonia // HP:0001276
+Generalized hypotonia // HP:0001290
+Dysmetria // HP:0001310
+Dystonia // HP:0001332
+Brisk reflexes // HP:0001348
+Plagiocephaly // HP:0001357
+Joint hypermobility // HP:0001382
+Limb hypertonia // HP:0002509
+Highly arched eyebrow // HP:0002553
+Supernumerary nipple // HP:0002558
+Scoliosis // HP:0002650
+High, narrow palate // HP:0002705
+Downturned corners of mouth // HP:0002714
+Bilateral cleft lip and palate // HP:0002744
+Oral leukoplakia // HP:0002745
+Generalized joint laxity // HP:0002761
+Genu valgum // HP:0002857
+Thoracolumbar scoliosis // HP:0002944
+Elbow flexion contracture // HP:0002987
+Hypoplasia of the ulna // HP:0003022
+Ulnar deviation of the wrist // HP:0003049
+Inverted nipples // HP:0003186
+Short nasal bridge // HP:0003194
+Short nose // HP:0003196
+Abdominal distention // HP:0003270
+Hip contracture // HP:0003273
+Abnormal muscle tone // HP:0003808
+Shoulder subluxation // HP:0003835
+Macrodactyly // HP:0004099
+Dimple on nasal tip // HP:0004132
+Clinodactyly of the 5th finger // HP:0004209
+Short distal phalanx of the 5th finger // HP:0004227
+Respiratory failure requiring assisted ventilation // HP:0004887
+Rhizomelic arm shortening // HP:0004991
+Prominent nasal tip // HP:0005274
+Depressed nasal bridge // HP:0005280
+Progeroid facial appearance // HP:0005328
+Sparse lateral eyebrow // HP:0005338
+Redundant neck skin // HP:0005989
+Deep palmar crease // HP:0006191
+Single interphalangeal crease of fifth finger // HP:0006216
+Rotated maxillary central incisors // HP:0006330
+Peg-shaped maxillary lateral incisors // HP:0006342
+Knee flexion contracture // HP:0006380
+Ankle flexion contracture // HP:0006466
+Wide intermamillary distance // HP:0006610
+Aplasia cutis congenita of scalp // HP:0007385
+Nevus flammeus of the forehead // HP:0007413
+Generalized edema // HP:0007430
+Abnormally folded helix // HP:0008544
+Microtia // HP:0008551
+Hypoplastic superior helix // HP:0008559
+Underfolded helix // HP:0008577
+Hypertrophic auricular cartilage // HP:0008608
+Prominent metopic ridge // HP:0005487
+2-3 toe cutaneous syndactyly // HP:0005709
+Lower-limb joint contracture // HP:0005750
+Absent fourth finger distal interphalangeal crease // HP:0005780
+Short 5th finger // HP:0009237
+Proximal placement of thumb // HP:0009623
+Large earlobe // HP:0009748
+Facial wrinkling // HP:0009762
+Branchial cyst // HP:0009796
+Forearm undergrowth // HP:0009821
+Bilateral cryptorchidism // HP:0008689
+Axial hypotonia // HP:0008936
+Short hallux // HP:0010109
+Deviation of the 5th toe // HP:0010344
+High anterior hairline // HP:0009890
+Crumpled ear // HP:0009901
+Thin ear helix // HP:0009905
+Anterior creases of earlobe // HP:0009908
+Uplifted earlobe // HP:0009909
+Anisocoria // HP:0009916
+Abnormal columella morphology // HP:0009929
+Asymmetry of the mouth // HP:0009941
+Polydactyly // HP:0010442
+Pelvic bone asymmetry // HP:0010453
+Hyperextensibility of the knee // HP:0010500
+Long toe // HP:0010511
+Nevus flammeus nuchae // HP:0007616
+Tented upper lip vermilion // HP:0010804
+Open bite // HP:0010807
+Ridged cranial sutures // HP:0010823
+Abdominal wall defect // HP:0010866
+Abnormal helix morphology // HP:0011039
+Conical incisor // HP:0011065
+Hypervolemia // HP:0011105
+Prominent forehead // HP:0011220
+Prominent eyelashes // HP:0011231
+Broad fingertip // HP:0011300
+Broad thumb // HP:0011304
+Posterior plagiocephaly // HP:0011327
+Ankle clonus // HP:0011448
+Knee clonus // HP:0011449
+Abnormality of the abdominal wall // HP:0004298
+Short stature // HP:0004322
+Flat forehead // HP:0004425
+Overfolding of the superior helices // HP:0004453
+Postauricular pit // HP:0004464
+Preauricular pit // HP:0004467
+Relative macrocephaly // HP:0004482
+Temporal hypotrichosis // HP:0004524
+2-3 toe syndactyly // HP:0004691
+Curved 4th toe phalanx // HP:0010374
+Unilateral wrist flexion contracture // HP:0012454
+Thick vermilion border // HP:0012471
+2-4 toe syndactyly // HP:0010714
+Asymmetry of the ears // HP:0010722
+Pedal edema // HP:0010741
+Dermatochalasis // HP:0010750
+Dimple chin // HP:0010751
+Unilateral cryptorchidism // HP:0012741
+Short palpebral fissure // HP:0012745
+Flexion contracture of finger // HP:0012785
+Scaphoid abdomen // HP:0025063
+Capillary malformation // HP:0025104
+Sparse medial eyebrow // HP:0025325
+Joint contracture of the 4th finger // HP:0009274
+Contracture of the proximal interphalangeal joint of the 4th finger // HP:0009276
+Joint contracture of the 3rd finger // HP:0009319
+Short finger // HP:0009381
+Contracture of the proximal interphalangeal joint of the 2nd finger // HP:0009540
+Abnormality of the hairline // HP:0009553
+Inguinal freckling // HP:0030052
+High-pitched cry // HP:0025430
+Overweight // HP:0025502
+Auricular pit // HP:0030025
+Squared superior portion of helix // HP:0030026
+Scaphocephaly // HP:0030799
+Abnormal tongue morphology // HP:0030809
+Hooded eyelid // HP:0030820
+Clinodactyly // HP:0030084
+Heart murmur // HP:0030148
+Microphallus // HP:0030260
+Torsion of the penis // HP:0030263
+Webbed penis // HP:0030264
+Erythematous papule // HP:0030350
+Tufted hairs // HP:0031283
+Erosion of oral mucosa // HP:0031446
+Penile freckling // HP:0031447
+Soft tissue neoplasm // HP:0031459
+Capillary malformation of the lip // HP:0031487
+Linear earlobe crease // HP:0031510
+Systolic heart murmur // HP:0031664
+Rhizomelic leg shortening // HP:0012106
+Genital edema // HP:0031188
+Hypopigmented macule // HP:0020073
+Midface retrusion // HP:0011800
+Short 5th toe // HP:0011917
+Narrow palpebral fissure // HP:0045025
+Thin eyebrow // HP:0045074
+Sparse eyebrow // HP:0045075
+Stahl ear // HP:0100015
+Lip pit // HP:0100267
+Short distal phalanx of the 4th toe // HP:0100390
+Fibular deviation of toes // HP:0100500
+Palpebral edema // HP:0100540
+Skin plaque // HP:0200035
+Skin nodule // HP:0200036
+Skin ulcer // HP:0200042
+Asymmetry of iris pigmentation // HP:0200064
+Hyperplasia of the maxilla // HP:0430028
+Moon facies // HP:0500011
+Tube feeding // HP:0033454
+Frontotemporal hypertrichosis // HP:0032313
+Finger clinodactyly // HP:0040019
+Clinodactyly of the 2nd finger // HP:0040022
+Scaling skin // HP:0040189
+Nasogastric tube feeding // HP:0040288
+Asymmetrical gluteal crease // HP:0410260
+Supraumbilical raphe // HP:0410276
+Persistent head lag // HP:0032988
+Asymmetric growth // HP:0100555
+Lower limb asymmetry // HP:0100559
+Upper limb asymmetry // HP:0100560
+Tibial torsion // HP:0100694
+Scarring // HP:0100699
+Tongue thrusting // HP:0100703
+Clubbing of toes // HP:0100760
+Hernia // HP:0100790
+Long fingers // HP:0100807
+Blue nevus // HP:0100814
+Thick hair // HP:0100874
+Infra-orbital crease // HP:0100876
