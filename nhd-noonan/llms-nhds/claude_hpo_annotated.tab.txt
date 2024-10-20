@@ -1,0 +1,77 @@
+Anxiety	HP:0000739
+Arthritis	HP:0001369
+Attention deficit hyperactivity disorder	HP:0007018
+Cafe-au-lait spots	HP:0000957
+Cardiac abnormalities	HP:0001627
+Cardiac defects	HP:0001627
+Cardiovascular problems	HP:0001626
+Cerebral ventriculomegaly	HP:0002119
+Characteristic facial features (wide-set eyes, low-set ears, webbed neck)	HP:0000271,HP:0000316,HP:0000369,HP:0000465
+Chest deformity (pectus excavatum or carinatum)	HP:0000765,HP:0000766,HP:0000767
+Chronic fatigue	HP:0012432
+Chronic pain	HP:0012532
+Coagulation defects	HP:0001928
+Cognitive decline	HP:0001268
+Congenital heart defects	HP:0001627
+Cryptorchidism in males	HP:0000028
+Cubitus valgus	HP:0002967
+Cystic hygroma	HP:0000476
+Delayed puberty	HP:0000823
+Dental malocclusion	HP:0000689
+Depression	HP:0000716
+Developmental delay	HP:0001263
+Diabetes mellitus	HP:0000819
+Downslanting palpebral fissures	HP:0000494
+Easy bruising	HP:0000978
+Epicanthal folds	HP:0000286
+Failure to thrive	HP:0001508
+Feeding difficulties	HP:0011968
+Fertility issues	HP:0000144
+Gastroesophageal reflux	HP:0002020
+Hearing loss	HP:0000365
+Hepatosplenomegaly	HP:0001433
+High arched palate	HP:0000218
+Hydrops fetalis	HP:0001789
+Hyperactive behavior	HP:0000752
+Hypertelorism	HP:0000316
+Hypertension	HP:0000822
+Hypoglycemia	HP:0001943
+Hypotonia	HP:0001252
+Increased nuchal translucency	HP:0010880
+Jaundice	HP:0000952
+Joint hypermobility	HP:0001382
+Keratosis pilaris	HP:0032152
+Learning difficulties	HP:0001328
+Learning disabilities	HP:0001328
+Low posterior hairline	HP:0002162
+Low-set posteriorly rotated ears	HP:0000368
+Lymphatic abnormalities	HP:0100763
+Lymphedema	HP:0001004
+Macrocephaly	HP:0000256
+Macrosomia	HP:0001520
+Micrognathia	HP:0000347
+Migraine headaches	HP:0002076
+Motor delay	HP:0001270
+Nystagmus	HP:0000639
+Obesity	HP:0001513
+Osteoporosis	HP:0000939
+Pectus deformities	HP:0000766
+Pleural effusion	HP:0002202
+Polyhydramnios	HP:0001561
+Ptosis	HP:0000508
+Recurrent infections	HP:0002719
+Renal anomalies	HP:0000077
+Respiratory distress	HP:0002098
+Scoliosis	HP:0002650
+Seizures	HP:0001250
+Short stature	HP:0004322
+Sleep apnea	HP:0010535
+Sleep disturbances	HP:0002360
+Social difficulties	HP:0025732
+Speech delay	HP:0000750
+Strabismus	HP:0000486
+Thrombocytopenia	HP:0001873
+Thyroid dysfunction	HP:0000820
+Vision problems	HP:0000504
+Webbed or short neck	HP:0000470
+Widely spaced nipples	HP:0006610

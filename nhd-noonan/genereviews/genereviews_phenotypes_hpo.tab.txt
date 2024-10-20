@@ -1,0 +1,159 @@
+abnormal bleeding	HP:0001892	Abnormal bleeding
+Acute lymphoblastic leukemia	HP:0006721	Acute lymphoblastic leukaemia
+acute myeloid leukemia	HP:0004808	Acute myeloid leukaemia
+ADHD	HP:0007018	ADHD
+amblyopia	HP:0000646	Amblyopia
+anxiety	HP:0000739	Anxiety
+aortic coarctation	HP:0001680	Coarctation of the aorta
+Arnold-Chiari I malformation	HP:0007099	Chiari I malformation
+speech articulation issues	HP:0009088	Speech articulation difficulties
+ascites	HP:0001541	Ascites
+atrial septal defect	HP:0001631	Atria septal defect
+atrioventricular canal defects	HP:0006695	Atrioventricular canal defect
+Axenfeld anomaly	HP:0001492	Axenfeld anomaly
+behavioral problems	HP:0000708	Behavioral problems
+bilateral cysts with scarring	HP:0000107	Renal cyst
+bipolar disease	HP:0007302	Bipolar affective disorder
+Bleeding diathesis	HP:0001892	Bleeding diathesis
+blue-green irises	HP:0000635	Blue irides
+brachydactyly	HP:0001156	Brachydactyly
+brain tumors	HP:0030692	Brain tumor
+branch pulmonary artery stenosis	HP:0004415	Pulmonary artery stenosis
+broad chest	HP:0000914	Broad chest
+broad neck	HP:0000475	Broad neck
+bulbous tip of nose	HP:0000414	Bulbous nasal tip
+Cafe au lait spots	HP:0000957	Cafe-au-lait spots
+cardiovascular anomalies	HP:0001626	Cardiovascular abnormality
+chronic otitis media	HP:0000389	Otitis media, chronic
+chylous effusions of the peritoneum	HP:0012281	Chylous ascites
+chylous effusions of the pleural space	HP:0010310	Chylothorax
+coagulation defects	HP:0001928	Abnormality of coagulation
+coagulation factor VIII defects	HP:0030976	Abnormal factor VIII activity
+congenital heart defect	HP:0001627	Congenital heart defect
+Craniosynostosis	HP:0001363	Craniosynostosis
+Cryptorchidism	HP:0000028	Cryptorchidism
+cubitus valgus	HP:0002967	Cubitus valgus
+cystic hygroma	HP:0000476	Cystic hygroma
+decreased IGF-1	HP:0030353	Decreased serum insulin-like growth factor 1
+deeply grooved philtrum	HP:0002002	Deep philtrum
+Deficient spermatogenesis	HP:0008669	Abnormal spermatogenesis
+delayed attainment of gross motor milestones	HP:0002194	Delayed gross motor development
+delayed early developmental milestones	HP:0001263	Global developmental delay
+Delayed male pubertal development	HP:0000823	Delayed puberty
+dental crowding	HP:0000678	Dental crowding
+depressed nasal bridge	HP:0005280	Depressed nasal bridge
+depression	HP:0000716	Depressivity
+developmental coordination disorder	HP:0002311	Difficulties in coordination
+Developmental delay	HP:0001263	Developmental delay
+Dilatation of the renal pelvis	HP:0010946	Dilatation of the renal pelvis
+distal ureteric stenosis	HP:0000071	Ureteral stenosis
+distended jugular lymphatic sacs	HP:0025701	Distended jugular lymphatic sacs
+dizziness	HP:0002321	Dizziness
+downslanted palpebral fissures	HP:0000494	Downslanting palpebral fissures
+droopiness of the upper eyelids	HP:0010750	Dermatochalasis
+Duplex collecting systems	HP:0000081	Duplex collecting system
+dysphagia	HP:0002015	Dysphagia
+Easy bruising	HP:0000978	Easy bruising
+Edema	HP:0000969	Oedema
+electrocardiographic abnormality	HP:0003115	Abnormal EKG
+Epicanthal folds	HP:0000286	Epicanthal fold
+excess nuchal skin	HP:0000474	Excess nuchal skin
+Extreme right axis deviation with superior counterclockwise frontal QRS loop	HP:0033567	Right axis deviation
+eye anomalies	HP:0000478	Abnormality of the eye
+failure to thrive	HP:0001508	Failure to thrive
+feeding difficulties	HP:0011968	Feeding difficulties
+fifth finger clinodactyly	HP:0004209	Fifth finger clinodactyly
+follicular keratosis	HP:0032152	Follicular keratosis
+full upper eyelids	HP:0012724	Fullness of upper eyelid
+growth hormone deficiency	HP:0034323	Growth hormone deficiency
+hearing loss	HP:0000365	Hearing loss
+jaundice	HP:0000952	Jaundice
+hepatosplenomegaly	HP:0001433	Hepatosplenomegaly
+high arched palate	HP:0000218	High arched palate
+high, wide peaks to the vermilion border of the upper lip	HP:0002263	Exaggerated cupid's bow
+hydronephrosis	HP:0000126	Hydronephrosis
+hypergonadotropic hypogonadism	HP:0000815	Hypergonadotropic hypogonadism
+hypertrophic cardiomyopathy	HP:0001639	Cardiomyopathy, hypertrophic
+hypotonia	HP:0001252	Hypotonia
+impairment in executive functioning	HP:0033051	Impaired executive functioning
+impairment in attention	HP:5200044	Reduced attention regulation
+inferior pectus excavatum	HP:0000767	Pectus excavatum
+intellectual disability mild	HP:0001256	Intellectual disability, mild
+intestinal lymphangiectasia	HP:0002593	Intestinal lymphangiectasia
+irritability	HP:0000737	Irritability
+joint hyperextensibility	HP:0001382	Joint hyperextensibility
+Juvenile myelomonocytic leukemia	HP:0012209	Juvenile myelomonocytic leukaemia
+keratoconus	HP:0000563	Keratoconus
+language delay	HP:0000750	Language delayed
+language impairment	HP:0002463	Language impairment
+learning disability	HP:0001328	Specific learning disability
+left anterior hemiblock	HP:0011711	Left anterior hemiblock
+left axis deviation	HP:0033568	Left axis deviation
+lentigines	HP:0001003	Multiple lentigines
+leukemia	HP:0001909	Leukaemia
+low posterior hairline	HP:0002162	Low posterior hairline
+low-grade gliomas	HP:0009733	Glioma
+low-grade glioneuronal tumors	HP:0025170	Glioneuronal tumor
+Low-set ears	HP:0000369	Low-set ears
+posteriorly rotated ears	HP:0000358	Posteriorly-rotated ears
+lower bone mineral density	HP:0004349	Reduced bone mineral density
+lymphatic abnormalities	HP:0100763	Abnormality of the lymphatic system
+micrognathia	HP:0000347	Micrognathia
+mitral valve abnormalities	HP:0001633	Abnormality of the mitral valve
+mixed conductive and sensorineural hearing loss	HP:0000410	Mixed hearing impairment
+myelodysplasia	HP:0002863	Myelodysplasia
+neck pain	HP:0030833	Neck pain
+neuroblastoma	HP:0003006	Neuroblastoma
+nonverbal intellectual functioning	HP:0001344	Nonverbal
+nuchal translucency	HP:0010880	Increased nuchal translucency
+nystagmus	HP:0000639	Nystagmus
+obstructive sleep apnea	HP:0002870	Obstructive sleep apnoea
+osteopenia	HP:0000938	Osteopaenia
+patent ductus arteriosus	HP:0001643	Patent ductus arteriosus
+platelet aggregation anomaly	HP:0003540	Platelet aggregation defect
+platelet dysfunction	HP:0001872	Platelet abnormalities
+pleural effusion	HP:0002202	Pleural effusion
+pointed chin	HP:0000307	Pointed chin
+Polyhydramnios	HP:0001561	Polyhydramnios
+poor weight gain	HP:0001508	Poor weight gain
+postnatal growth failure	HP:0008897	Postnatal growth failure
+postoperative blood loss	HP:0004846	Prolonged bleeding after surgery
+prominent eyes	HP:0000520	Prominent eyes
+prominent nasolabial folds	HP:0005272	Prominent nasolabial fold
+ptosis	HP:0000508	Ptosis
+pulmonary lymphangiectasia	HP:0006521	Pulmonary lymphangiectasia
+Pulmonary valve stenosis	HP:0001642	Pulmonary valve stenosis
+radioulnar synostosis	HP:0002974	Radioulnar synostosis
+reading difficulties	HP:0010522	Reading disability
+Relative macrocephaly	HP:0004482	Macrocephaly, relative
+renal anomalies	HP:0000077	Renal anomaly
+renal hypoplasia	HP:0000089	Renal hypoplasia
+rhabdomyosarcoma	HP:0002859	Rhabdomyosarcoma
+conductive hearing loss	HP:0000405	Conductive hearing impairment
+sensorineural hearing loss	HP:0000407	Hearing loss, sensorineural
+short neck	HP:0000470	Short neck
+short stature	HP:0004322	Short stature
+skin wrinkled	HP:0100678	Skin wrinkling
+strabismus	HP:0000486	Strabismus
+superior pectus carinatum	HP:0000917	Superior pectus carinatum
+tall forehead	HP:0000348	Tall forehead
+testicular lymphangiectasia	HP:0031842	Lymphangiectasia
+tetralogy of Fallot	HP:0001636	Tetralogy of Fallot
+thickened helix	HP:0000391	Thick helix
+Thoracic scoliosis	HP:0002943	Thoracic scoliosis
+thrombocytopenia	HP:0001873	Thrombocytopenia
+transient myeloproliferative disorder	HP:0005534	Transient myeloproliferative disorder
+unexplained vomiting	HP:0002013	Vomiting
+unilateral renal agenesis	HP:0000122	Unilateral renal agenesis
+unilateral renal ectopia	HP:0000086	Renal ectopia
+upper limb anomalies	HP:0002817	Abnormality of the upper limb
+ventricular septal defects	HP:0001629	Ventricular septal defects
+Vertebral defects	HP:0003468	Multiple vertebral anomalies
+Vivid blue irises	HP:0000635	Blue irides
+von Willebrand disease	HP:0012146	Abnormality of von Willebrand factor
+webbed neck	HP:0000465	Neck webbing
+wide base nose	HP:0012810	Wide base of nose
+wide forehead	HP:0000337	Wide forehead
+Widely palpebral fissures	HP:0000637	Wide palpebral fissures
+widely spaced eyes	HP:0000316	Widely spaced eyes
+Widely spaced nipples	HP:0006610	Widely spaced nipples

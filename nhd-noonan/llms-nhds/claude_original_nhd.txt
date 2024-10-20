@@ -1,0 +1,218 @@
+- stage: PRENATAL
+  phenotypes:
+    - Polyhydramnios
+    - Increased nuchal translucency
+    - Cystic hygroma
+    - Cardiac defects
+    - Lymphatic abnormalities
+    - Hydrops fetalis
+    - Renal anomalies
+    - Pleural effusion
+    - Macrosomia
+    - Cerebral ventriculomegaly
+
+- stage: CONGENITAL
+  phenotypes:
+    - Characteristic facial features (wide-set eyes, low-set ears, webbed neck)
+    - Congenital heart defects
+    - Short stature
+    - Cryptorchidism in males
+    - Feeding difficulties
+    - Low-set posteriorly rotated ears
+    - Hypertelorism
+    - Downslanting palpebral fissures
+    - Epicanthal folds
+    - Ptosis
+    - High arched palate
+    - Micrognathia
+    - Webbed or short neck
+    - Low posterior hairline
+    - Chest deformity (pectus excavatum or carinatum)
+    - Widely spaced nipples
+    - Cubitus valgus
+    - Lymphedema
+    - Hypotonia
+
+- stage: NEONATAL
+  phenotypes:
+    - Failure to thrive
+    - Hypotonia
+    - Lymphedema
+    - Cardiac abnormalities
+    - Feeding difficulties
+    - Jaundice
+    - Respiratory distress
+    - Hypoglycemia
+    - Seizures
+    - Hepatosplenomegaly
+    - Thrombocytopenia
+    - Easy bruising
+    - Coagulation defects
+
+- stage: INFANTILE
+  phenotypes:
+    - Developmental delay
+    - Short stature
+    - Macrocephaly
+    - Pectus deformities
+    - Feeding difficulties
+    - Motor delay
+    - Speech delay
+    - Hypotonia
+    - Recurrent infections
+    - Gastroesophageal reflux
+    - Failure to thrive
+    - Lymphedema
+    - Easy bruising
+    - Coagulation defects
+    - Strabismus
+    - Nystagmus
+
+- stage: CHILDHOOD
+  phenotypes:
+    - Learning disabilities
+    - Short stature
+    - Delayed puberty
+    - Easy bruising
+    - Attention deficit hyperactivity disorder
+    - Scoliosis
+    - Coagulation defects
+    - Hearing loss
+    - Dental malocclusion
+    - Cryptorchidism in males
+    - Lymphedema
+    - Recurrent infections
+    - Joint hypermobility
+    - Keratosis pilaris
+    - Cafe-au-lait spots
+    - Hyperactive behavior
+    - Anxiety
+    - Depression
+    - Sleep disturbances
+
+- stage: JUVENILE
+  phenotypes:
+    - Short stature
+    - Delayed puberty
+    - Scoliosis
+    - Coagulation defects
+    - Learning difficulties
+    - Attention deficit hyperactivity disorder
+    - Anxiety
+    - Depression
+    - Social difficulties
+    - Lymphedema
+    - Easy bruising
+    - Joint hypermobility
+    - Chronic pain
+    - Migraine headaches
+    - Dental malocclusion 
+    - Hearing loss
+    - Strabismus
+    - Keratosis pilaris
+    - Cafe-au-lait spots 
+
+- stage: EARLY ADULT
+  phenotypes:
+    - Short stature
+    - Fertility issues
+    - Cardiovascular problems
+    - Chronic pain
+    - Depression
+    - Anxiety
+    - Social difficulties
+    - Lymphedema
+    - Easy bruising
+    - Joint hypermobility
+    - Migraine headaches
+    - Hearing loss
+    - Strabismus
+    - Keratosis pilaris
+    - Cafe-au-lait spots
+    - Hypertension
+    - Obesity
+    - Sleep apnea
+
+- stage: INTERMEDIATE EARLY ADULT
+  phenotypes:
+    - Fertility issues
+    - Cardiovascular problems
+    - Chronic pain
+    - Depression
+    - Anxiety
+    - Social difficulties
+    - Lymphedema
+    - Easy bruising
+    - Joint hypermobility
+    - Migraine headaches
+    - Hearing loss
+    - Hypertension
+    - Obesity
+    - Sleep apnea
+    - Osteoporosis
+    - Diabetes mellitus
+    - Thyroid dysfunction
+
+- stage: LATE EARLY ADULT
+  phenotypes:
+    - Cardiovascular problems
+    - Chronic pain
+    - Depression
+    - Anxiety
+    - Social difficulties
+    - Lymphedema
+    - Easy bruising
+    - Joint hypermobility
+    - Migraine headaches
+    - Hearing loss
+    - Hypertension
+    - Obesity
+    - Sleep apnea
+    - Osteoporosis
+    - Diabetes mellitus
+    - Thyroid dysfunction
+    - Chronic fatigue
+
+- stage: MIDDLE AGE
+  phenotypes:
+    - Cardiovascular problems
+    - Chronic pain
+    - Depression 
+    - Anxiety
+    - Social difficulties
+    - Lymphedema
+    - Easy bruising
+    - Joint hypermobility
+    - Migraine headaches
+    - Hearing loss
+    - Hypertension
+    - Obesity
+    - Sleep apnea
+    - Osteoporosis
+    - Diabetes mellitus
+    - Thyroid dysfunction
+    - Chronic fatigue
+    - Cognitive decline
+    - Arthritis
+
+- stage: LATE
+  phenotypes:
+    - Cardiovascular problems
+    - Chronic pain
+    - Hearing loss
+    - Osteoporosis
+    - Cognitive decline
+    - Depression
+    - Anxiety
+    - Lymphedema
+    - Easy bruising
+    - Joint hypermobility
+    - Migraine headaches
+    - Hypertension
+    - Obesity
+    - Sleep apnea
+    - Diabetes mellitus
+    - Thyroid dysfunction
+    - Chronic fatigue
+    - Arthritis
+    - Vision problems

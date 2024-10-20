@@ -1,0 +1,114 @@
+Behavioral issues (anxiety, depression)	HP:0000708,HP:0000739,HP:0000716
+Behavioral issues (attention deficit, social difficulties)	HP:0000708,HP:0007018
+Behavioral problems (autism spectrum disorder features)	HP:0000708,HP:0000729
+Bleeding diathesis (coagulation defects)	HP:0001892,HP:0001928
+Bleeding diathesis (coagulation disorders)	HP:0001892,HP:0001928
+Bleeding disorders	HP:0001892
+Bleeding disorders (easy bruising, nosebleeds)	HP:0001892,HP:0000978,HP:0000421
+Bleeding tendencies (easy bruising, nosebleeds)	HP:0001892,HP:0000978,HP:0000421
+Broad forehead	HP:0000337
+Cardiac problems (hypertrophic cardiomyopathy, valve defects)	HP:0001627,HP:0001639
+Cardiac problems (pulmonary valve stenosis, hypertrophic cardiomyopathy)	HP:0001627,HP:0001642,HP:0001639
+Cardiac problems may persist or progress (arrhythmias, cardiomyopathy)	HP:0001627,HP:0011675,HP:0001638
+Cardiac problems may progress (arrhythmias, heart failure)	HP:0001627,HP:0011675,HP:0001635
+Cardiac problems may progress or worsen (arrhythmias, heart failure)	HP:0001627,HP:0011675,HP:0001635
+Cardiac problems may worsen significantly (arrhythmias, heart failure)	HP:0001627,HP:0011675,HP:0001635
+Chest deformities (pectus excavatum or carinatum)	HP:0000766,HP:0000767
+Clinodactyly (curved fingers)	HP:0030084,HP:0004095
+Cognitive difficulties (executive function deficits)	HP:0100543 
+Congenital heart defects (pulmonary valve stenosis, hypertrophic cardiomyopathy)	HP:0001627,HP:0001642,HP:0001639
+Congenital heart defects detected prenatally	HP:0001627
+Cryptorchidism in males	HP:0000028
+Cystic hygroma	HP:0000476
+Decreased mobility due to skeletal issues	HP:0000924
+Delayed bone age	HP:0002750
+Delayed development (speech and language delays)	HP:0001263,HP:0000750
+Delayed puberty	HP:0000823
+Dental anomalies (delayed eruption)	HP:0000164,HP:0000684
+Dental anomalies (malocclusion)	HP:0000164,HP:0000689
+Dental anomalies (malocclusion, crowded teeth)	HP:0000164,HP:0000689,HP:0000678
+Dental anomalies (malocclusion, periodontal disease)	HP:0000164,HP:0000689,HP:0011058
+Developmental delays (motor milestones)	HP:0001263
+Down-slanting palpebral fissures	HP:0000494
+Dysmorphic facial features (hypertelorism, ptosis)	HP:0001999,HP:0000316,HP:0000508
+Excess nuchal skin	HP:0000474
+Facial dysmorphism (hypertelorism, ptosis, low-set ears)	HP:0001999,HP:0000316,HP:0000508,HP:0000369
+Failure to thrive	HP:0001508
+Failure to thrive (in early childhood)	HP:0001508
+Feeding difficulties (poor appetite, vomiting)	HP:0011968,HP:0004396,HP:0002013
+Feeding difficulties (poor suck, vomiting)	HP:0011968,HP:0002033,HP:0002013
+Fertility issues in males	HP:0000144
+Fertility issues in males (due to cryptorchidism)	HP:0000144,HP:0000028
+Fetal arrhythmias	HP:0011675 
+Fetal chylothorax	HP:0025677
+Fetal hydrops	HP:0001789
+Fetal pleural effusions	HP:0025676
+Mild intellectual disability	HP:0001256
+Gastrointestinal issues (chronic constipation, irritable bowel syndrome)	HP:0012450,HP:0033628
+Gastrointestinal issues (constipation, diarrhea)	HP:0002019,HP:0002014
+Genitourinary anomalies	HP:0000119
+Growth retardation (short stature)	HP:0001510,HP:0004322
+Hearing loss (sensorineural or conductive)	HP:0000365,HP:0000407,HP:0000405
+High-arched palate	HP:0000218
+Hypoplastic nipples	HP:0002557
+Hypotonia	HP:0001252
+Hypotonia (low muscle tone)	HP:0001252
+Increased nuchal translucency	HP:0010880
+Increased risk of certain cancers (e.g., leukemia, neuroblastoma)	HP:0001909,HP:0003006
+Increased risk of certain cancers (leukemia, lymphoma)	HP:0001909,HP:0002665
+Increased risk of neoplasms (cancers, e.g., leukemia, lymphoma)	HP:0001909,HP:0002665
+Joint hypermobility	HP:0001382
+Joint laxity/hypermobility	HP:0001382
+Joint pain or arthritis	HP:0002829,HP:0001369
+Joint pain or early-onset osteoarthritis	HP:0002829,HP:0002758
+Learning difficulties	HP:0001328
+Learning disabilities	HP:0001328
+Low-set, posteriorly rotated ears	HP:0000358
+Lung problems (pulmonary lymphangiectasia)	HP:0002088,HP:0006521
+Lymphatic abnormalities	HP:0100763
+Lymphedema	HP:0001004
+Micrognathia (small jaw)	HP:0000347
+Oligohydramnios	HP:0001562
+Osteopenia or osteoporosis	HP:0000938,HP:0000939
+Osteoporosis	HP:0000939
+Osteoporosis or joint problems (osteoarthritis)	HP:0000939,HP:0001367,HP:0002758
+Polyhydramnios	HP:0001561
+Possible cognitive decline or dementia	HP:0001268,HP:0000726
+Possible mild cognitive decline	HP:0001268
+Prenatal edema	HP:0000969
+Prolonged jaundice	HP:0006579
+Psychosocial issues (due to physical features, infertility)	HP:0025732
+Ptosis (drooping eyelids)	HP:0000508
+Pubertal delay	HP:0000823
+Recurrent infections	HP:0002719
+Renal anomalies	HP:0000077
+Renal anomalies detected prenatally	HP:0000077 
+Scoliosis	HP:0002650
+Shield chest	HP:0000914
+Short stature	HP:0004322
+Short stature (birth length below average)	HP:0004322
+Skeletal anomalies (joint hypermobility, clinodactyly)	HP:0000924,HP:0001382,HP:0030084
+Skeletal anomalies (joint hypermobility, limb anomalies)	HP:0000924,HP:0001382,HP:0040064
+Skeletal anomalies (joint pain, osteopenia, osteoarthritis)	HP:0000924,HP:0002829,HP:0000938,HP:0002758
+Skeletal anomalies (pectus deformities, joint laxity)	HP:0000924,HP:0000766,HP:0001382
+Skeletal anomalies (pectus deformities, limb anomalies)	HP:0000924,HP:0000766,HP:0040064
+Skeletal anomalies (pectus deformities, scoliosis, joint pain)	HP:0000924,HP:0000766,HP:0002650,HP:0002829
+Skeletal issues (osteopenia, osteoporosis, joint pain)	HP:0000924,HP:0000938,HP:0000939,HP:0002829
+Skin findings (age-related changes compounded)	HP:0000951 
+Skin findings (keratosis pilaris, multiple nevi, lentigines)	HP:0000951,HP:0032152,HP:0001054,HP:0001003
+Skin findings (multiple nevi, café-au-lait spots)	HP:0000951,HP:0001054,HP:0000957
+Skin findings (multiple nevi, café-au-lait spots, lentigines)	HP:0000951,HP:0001054,HP:0000957,HP:0001003
+Skin findings (multiple nevi, keratosis pilaris, lentigines)	HP:0000951,HP:0001054,HP:0032152,HP:0001003
+Skin findings (multiple nevi, lentigines)	HP:0000951,HP:0001054,HP:0001003
+Skin findings (wrinkling, loss of elasticity, multiple nevi)	HP:0000951,HP:0001054
+Supernumerary nipples	HP:0002558
+Umbilical hernia	HP:0001537
+Vision problems (cataracts, glaucoma)	HP:0000504,HP:0000518,HP:0000501
+Vision problems (cataracts, glaucoma, age-related macular degeneration)	HP:0000504,HP:0000518,HP:0000501,HP:0000608
+Vision problems (cataracts, glaucoma, macular degeneration)	HP:0000504,HP:0000518,HP:0000501,HP:0000608
+Vision problems (refractive errors, strabismus)	HP:0000504,HP:0000486
+Vision problems (strabismus, nystagmus, refractive errors)	HP:0000504,HP:0000486,HP:0000639
+Vision problems (strabismus, refractive errors)	HP:0000504,HP:0000486
+Vision problems (strabismus, refractive errors, nystagmus)	HP:0000504,HP:0000486,HP:0000639
+Webbed neck	HP:0000465
+Wide-spaced nipples	HP:0006610

@@ -1,0 +1,211 @@
+abnormal bleeding	undefined
+abnormal hemostatic lab results	undefined
+abnormalities of the GH-IGF-I axis	childhood
+accentuated skin webbing	juvenile
+Acute lymphoblastic leukemia	childhood
+acute myeloid leukemia	childhood
+ADHD	infantile	childhood	juvenile
+amblyopia	undefined
+anxiety	juvenile	childhood	late_early_adult	early_adult	interim_early_adult	mid_age
+aortic coarctation	undefined
+Arnold-Chiari I malformation	undefined
+speech articulation issues	juvenile	childhood	juvenile
+ascites	pre_birth
+atrial septal defect	undefined
+atrioventricular canal defects	undefined
+attenuated adolescent growth spurt	juvenile	early_adult
+Axenfeld anomaly	undefined
+behavioral problems	juvenile	childhood	late_early_adult	early_adult	interim_early_adult	mid_age
+below-average growth velocity	juvenile	early_adult
+bilateral cysts with scarring	undefined
+bipolar disease	late_early_adult	interim_early_adult	mid_age
+Bleeding diathesis	undefined
+blue-green irises	undefined
+brachydactyly	undefined
+brain tumors	undefined
+branch pulmonary artery stenosis	undefined
+broad chest	undefined
+broad neck	undefined
+bulbous tip of nose	infantile
+Cafe au lait spots	undefined
+cardiovascular anomalies	undefined
+chronic headache	infantile
+chronic otitis media	undefined
+chylous effusions of the peritoneum	congenital	infantile	neonatal
+chylous effusions of the pleural space	congenital	neonatal	infantile
+coagulation defects	undefined
+coagulation factor V defects	undefined
+coagulation factor VIII defects	undefined
+coagulation factor XI defects	undefined
+coagulation factor XII defects	undefined
+congenital heart defect	congenital
+conductive hearing loss	undefined
+Craniosynostosis	undefined
+Cryptorchidism	juvenile	early_adult
+cubitus valgus	undefined
+cystic hygroma	pre_birth
+decreased IGF-1	undefined
+decreased IGF-binding protein 3	undefined
+deeply grooved philtrum	neonatal
+Deficient spermatogenesis	juvenile	early_adult
+delayed attainment of gross motor milestones	undefined
+delayed early developmental milestones	infantile	childhood
+Delayed fertility	juvenile	early_adult
+Delayed male pubertal development	juvenile	early_adult
+dental crowding	undefined
+depressed nasal bridge	infantile
+depression	childhood	late_early_adult	early_adult	interim_early_adult	mid_age
+developmental coordination disorder	juvenile
+Developmental delay	undefined
+Dilatation of the renal pelvis	undefined
+distal ureteric stenosis	undefined
+distended jugular lymphatic sacs	pre_birth
+dizziness	infantile
+Dorsal limb lymphedema	congenital	infantile	neonatal
+downslanted palpebral fissures	neonatal
+droopiness of the upper eyelids	undefined
+Duplex collecting systems	undefined
+dysphagia	infantile	neonatal
+Easy bruising	undefined
+Edema	congenital
+electrocardiographic abnormality	undefined
+emotional dysregulation	undefined
+Epicanthal folds	undefined
+excess nuchal skin	neonatal
+Extreme right axis deviation with superior counterclockwise frontal QRS loop	undefined
+eye anomalies	undefined
+facial appearance lacking in affect or expression	childhood
+failure to thrive	infantile	neonatal
+feeding difficulties	infantile	neonatal
+fifth finger clinodactyly	undefined
+fleshy helices	undefined
+follicular keratosis	undefined
+full upper eyelids	infantile
+growth hormone deficiency	childhood	infantile	neonatal
+growth hormone resistance	undefined
+hearing loss	juvenile	childhood
+hepatosplenomegaly	undefined
+high arched palate	undefined
+high, wide peaks to the vermilion border of the upper lip	neonatal
+horizontal palpebral fissures	infantile
+hydronephrosis	pre_birth
+hypergonadotropic hypogonadism	juvenile	early_adult
+hypertrophic cardiomyopathy	congenital	childhood	infantile	neonatal
+hypotonia	infantile
+impaired growth hormone release	undefined
+impaired manual dexterity	juvenile
+impairment in attention	juvenile	childhood
+impairment in executive functioning	juvenile	childhood
+Inadequate fertility	juvenile	early_adult
+inferior pectus excavatum	undefined
+intellectual disability mild	undefined
+intestinal lymphangiectasia	congenital	infantile	neonatal
+inverted triangle facial shape	juvenile
+irritability	undefined
+joint hyperextensibility	infantile	childhood
+jaundice	undefined
+Juvenile myelomonocytic leukemia	infantile	neonatal
+keratoconus	undefined
+language delay	juvenile	childhood
+language impairment	juvenile	childhood
+learning disability	juvenile
+left anterior hemiblock	undefined
+left axis deviation	undefined
+lentigines	undefined
+leukemia	childhood
+low posterior hairline	neonatal
+low-grade gliomas	undefined
+low-grade glioneuronal tumors	undefined
+Low-set ears	neonatal
+posteriorly rotated ears	neonatal
+lower bone mineral density	juvenile	childhood
+lymphatic abnormalities	congenital	pre_birth	neonatal
+Lymphatic dysplasia	pre_birth
+Lymphatic dysplasia of the intestines	undefined
+Lymphatic dysplasia of the lower extremities	undefined
+Lymphatic dysplasia of the lungs	undefined
+lymphedema of the scrotum	congenital	infantile	neonatal
+lymphedema of the vulva	congenital	infantile	neonatal
+micrognathia	undefined
+middle ear effusion	undefined
+mitral valve abnormalities	undefined
+mixed conductive and sensorineural hearing loss	undefined
+Multiple giant cell lesions of the jaw	undefined
+Multiple giant cell lesions of the soft tissue	undefined
+myelodysplasia	undefined
+neck pain	undefined
+neuroblastoma	undefined
+nonverbal intellectual functioning	juvenile
+nuchal translucency	pre_birth
+nystagmus	undefined
+obstructive jaundice involving the biliary ampulla	undefined
+obstructive jaundice involving the bladder	undefined
+obstructive jaundice involving the urachus	undefined
+obstructive sleep apnea	undefined
+osteopenia	early_adult	interim_early_adult
+patent ductus arteriosus	undefined
+perceptual motor disabilities	juvenile	childhood
+pigmented villonodular synovitis	undefined
+platelet aggregation anomaly	undefined
+platelet dysfunction	undefined
+pleural effusion	pre_birth
+pointed chin	juvenile	early_adult
+Polyhydramnios	pre_birth
+poor weight gain	infantile	neonatal
+post-receptor signaling defect	undefined
+postnatal growth failure	infantile	neonatal
+postoperative blood loss	undefined
+praxic reasoning cognitive disability	juvenile
+prominence of the trapezius muscle	juvenile	early_adult
+prominent eyes	infantile
+prominent nasolabial folds	early_adult	interim_early_adult
+ptosis	undefined
+pulmonary lymphangiectasia	pre_birth	congenital	neonatal
+Pulmonary valve stenosis	undefined
+radioulnar synostosis	undefined
+reading difficulties	juvenile
+refractive errors	undefined
+Relative macrocephaly	pre_birth
+renal anomalies	undefined
+renal hypoplasia	undefined
+rhabdomyosarcoma	childhood
+risk for autism spectrum disorders	juvenile	childhood
+risk of malignancy	juvenile	childhood
+risk of perioperative bleeding complications	undefined
+rotational anomalies	undefined
+RSR' pattern in lead V1	undefined
+sensorineural hearing loss	undefined
+Sertoli cell dysfunction	juvenile	early_adult
+short neck	neonatal
+short stature	juvenile	childhood	infantile
+skin transparent	early_adult	interim_early_adult
+skin wrinkled	early_adult	interim_early_adult
+specific factor deficiency	undefined
+spelling difficulties	juvenile
+strabismus	undefined
+substance abuse	late_early_adult	interim_early_adult	mid_age
+superior axis deviation	undefined
+superior pectus carinatum	undefined
+surgical hemorrhage	undefined
+tall forehead	neonatal
+testicular lymphangiectasia	congenital	infantile	neonatal
+tetralogy of Fallot	undefined
+thickened helix	neonatal
+Thoracic scoliosis	juvenile
+thrombocytopenia	undefined
+transient myeloproliferative disorder	infantile	neonatal
+unexplained vomiting	infantile	neonatal
+unilateral renal agenesis	undefined
+unilateral renal ectopia	undefined
+upper limb anomalies	undefined
+ventricular septal defects	undefined
+verbal cognitive disability	juvenile
+Vertebral defects	undefined
+Vivid blue irises	undefined
+von Willebrand disease	undefined
+webbed neck	undefined
+wide base nose	infantile
+wide forehead	juvenile	early_adult
+Widely palpebral fissures	undefined
+widely spaced eyes	infantile	neonatal
+Widely spaced nipples	undefined

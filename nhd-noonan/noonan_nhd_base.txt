@@ -1,0 +1,647 @@
+----
+Prenatal
+----
+ - Abnormal heart morphology
+ - Abnormality of the cardiovascular system
+ - Abnormality of the kidney
+ - Chylothorax
+ - Coarctation of aorta
+ - Craniosynostosis
+ - Cystic hygroma
+ - Depressed nasal bridge
+ - Distended jugular lymphatic sacs
+ - Downslanted palpebral fissures
+ - Edema
+ - Hypertelorism
+ - Hypertrophic cardiomyopathy
+ - Increased nuchal translucency
+ - Low-set ears
+ - Pleural effusion
+ - Polyhydramnios
+ - Pulmonary lymphangiectasia
+ - Pulmonic stenosis
+ - Relative macrocephaly
+ - Renal cyst
+ - Thickened nuchal skin fold
+ - Ventricular septal defect
+ - Wide nasal base
+ - Hydrops fetalis
+ - Abnormality of the lymphatic system
+ - Large for gestational age
+ - Ventriculomegaly
+ - Arrhythmia
+ - Fetal pleural effusion
+ - Fetal chylothorax
+ - Oligohydramnios
+----
+Congenital 
+----
+ - Abnormal bleeding
+ - Abnormal heart morphology
+ - Abnormal mitral valve morphology
+ - Abnormality of the cardiovascular system
+ - Abnormality of the kidney
+ - Abnormality of thrombocytes
+ - Atrial septal defect
+ - Atrioventricular canal defect
+ - Axenfeld anomaly
+ - Chylothorax
+ - Chylous ascites
+ - Coarctation of aorta
+ - Craniosynostosis
+ - Cystic hygroma
+ - Downslanted palpebral fissures
+ - Dysphagia
+ - Edema
+ - Hearing impairment
+ - Hepatosplenomegaly
+ - Hydronephrosis
+ - Hypertelorism
+ - Hypertrophic cardiomyopathy
+ - Hypotonia
+ - Juvenile myelomonocytic leukemia
+ - Low-set ears
+ - Lymphangiectasis
+ - Micrognathia
+ - Neuroblastoma
+ - Patent ductus arteriosus
+ - Pleural effusion
+ - Polyhydramnios
+ - Posteriorly rotated ears
+ - Pulmonary lymphangiectasia
+ - Pulmonic stenosis
+ - Sensorineural hearing impairment
+ - Tetralogy of Fallot
+ - Thickened nuchal skin fold
+ - Thrombocytopenia
+ - Ventricular septal defect
+ - Abnormality of the face
+ - Webbed neck
+ - Short stature
+ - Cryptorchidism
+ - Feeding difficulties
+ - Low-set, posteriorly rotated ears
+ - Epicanthus
+ - Ptosis
+ - High palate
+ - Short neck
+ - Low posterior hairline
+ - Abnormal thorax morphology
+ - Abnormal sternum morphology
+ - Pectus excavatum
+ - Wide intermamillary distance
+ - Cubitus valgus
+ - Lymphedema
+ - Abnormal facial shape
+ - Broad forehead
+ - Abnormality of the skin
+ - Numerous nevi
+ - Cafe-au-lait spot
+ - Abnormality of coagulation
+ - Abnormality of vision
+ - Strabismus
+ - Conductive hearing impairment
+ - Abnormal lung morphology
+ - Abnormality of the genitourinary system
+ - Hypoplastic nipples
+ - Clinodactyly
+ - Curved fingers
+ - Supernumerary nipple
+ - Shield chest
+ - Umbilical hernia
+----
+Neonatal
+----
+ - Abnormal bleeding
+ - Abnormal heart morphology
+ - Abnormality of the cardiovascular system
+ - Abnormality of thrombocytes
+ - Atrial septal defect
+ - Axenfeld anomaly
+ - Cafe-au-lait spot
+ - Chylothorax
+ - Coarctation of aorta
+ - Craniosynostosis
+ - Cystic hygroma
+ - Downslanted palpebral fissures
+ - Dysphagia
+ - Edema
+ - Feeding difficulties
+ - Hearing impairment
+ - Hepatosplenomegaly
+ - Hydronephrosis
+ - Hypertelorism
+ - Hypertrophic cardiomyopathy
+ - Hypotonia
+ - Jaundice
+ - Juvenile myelomonocytic leukemia
+ - Leukemia
+ - Low posterior hairline
+ - Low-set ears
+ - Lymphangiectasis
+ - Patent ductus arteriosus
+ - Pleural effusion
+ - Posteriorly rotated ears
+ - Pulmonary lymphangiectasia
+ - Pulmonic stenosis
+ - Sensorineural hearing impairment
+ - Thickened nuchal skin fold
+ - Thrombocytopenia
+ - Failure to thrive
+ - Lymphedema
+ - Respiratory distress
+ - Hypoglycemia
+ - Seizure
+ - Bruising susceptibility
+ - Abnormality of coagulation
+ - Poor suck
+ - Vomiting
+ - Prolonged neonatal jaundice
+ - Abnormal facial shape
+ - Ptosis
+ - Abnormal sternum morphology
+ - Pectus excavatum
+ - Conductive hearing impairment
+ - Abnormality of vision
+ - Strabismus
+ - Nystagmus
+ - Abnormality of the kidney
+ - Abnormality of the skin
+ - Numerous nevi
+ - Cryptorchidism
+ - Abnormality of the skeletal system
+ - Joint hypermobility
+ - Abnormality of limbs
+ - Delayed skeletal maturation
+ - Abnormal lung morphology
+ - Abnormality of the genitourinary system
+ - Clinodactyly
+ - Curved fingers
+----
+Infantile
+----
+ - Abnormal heart morphology
+ - Abnormality of the cardiovascular system
+ - Abnormality of the eye
+ - Abnormality of the kidney
+ - Atrial septal defect
+ - Atrioventricular canal defect
+ - Chylothorax
+ - Craniosynostosis
+ - Edema
+ - Failure to thrive
+ - Feeding difficulties
+ - Hypertrophic cardiomyopathy
+ - Hypotonia
+ - Juvenile myelomonocytic leukemia
+ - Leukemia
+ - Lymphangiectasis
+ - Neuroblastoma
+ - Pulmonary lymphangiectasia
+ - Rhabdomyosarcoma
+ - Right axis deviation
+ - Thrombocytopenia
+ - Global developmental delay
+ - Short stature
+ - Macrocephaly
+ - Abnormal sternum morphology
+ - Motor delay
+ - Delayed speech and language development
+ - Recurrent infections
+ - Gastroesophageal reflux
+ - Lymphedema
+ - Bruising susceptibility
+ - Abnormality of coagulation
+ - Strabismus
+ - Nystagmus
+ - Poor appetite
+ - Vomiting
+ - Growth delay
+ - Hearing impairment
+ - Sensorineural hearing impairment
+ - Conductive hearing impairment
+ - Abnormality of vision
+ - Pulmonic stenosis
+ - Pectus excavatum
+ - Cryptorchidism
+ - Abnormal bleeding
+ - Epistaxis
+ - Abnormality of the lymphatic system
+ - Abnormality of the skin
+ - Numerous nevi
+ - Cafe-au-lait spot
+ - Multiple lentigines
+ - Abnormality of the dentition
+ - Delayed eruption of teeth
+ - Delayed skeletal maturation
+ - Abnormality of the skeletal system
+ - Joint hypermobility
+ - Clinodactyly
+ - Umbilical hernia
+----
+Childhood
+----
+ - Abnormality of the cardiovascular system
+ - Abnormality of the eye
+ - Acute lymphoblastic leukemia
+ - Acute myeloid leukemia
+ - Chiari type I malformation
+ - Chylothorax
+ - Edema
+ - Failure to thrive
+ - Glioma
+ - Global developmental delay
+ - Hearing impairment
+ - Hypertrophic cardiomyopathy
+ - Juvenile myelomonocytic leukemia
+ - Leukemia
+ - Multiple lentigines
+ - Neuroblastoma
+ - Obstructive sleep apnea
+ - Rhabdomyosarcoma
+ - Strabismus
+ - Thoracic scoliosis
+ - Specific learning disability
+ - Short stature
+ - Delayed puberty
+ - Bruising susceptibility
+ - Attention deficit hyperactivity disorder
+ - Scoliosis
+ - Abnormality of coagulation
+ - Dental malocclusion
+ - Cryptorchidism
+ - Lymphedema
+ - Recurrent infections
+ - Joint hypermobility
+ - Keratosis pilaris
+ - Cafe-au-lait spot
+ - Hyperactivity
+ - Anxiety
+ - Depression
+ - Sleep abnormality
+ - Delayed speech and language development
+ - Atypical behavior
+ - Abnormality of the dentition
+ - Dental crowding
+ - Abnormal bleeding
+ - Epistaxis
+ - Sensorineural hearing impairment
+ - Conductive hearing impairment
+ - Abnormality of vision
+ - Nystagmus
+ - Abnormality of the lymphatic system
+ - Abnormality of the skin
+ - Numerous nevi
+ - Delayed skeletal maturation
+ - Abnormality of the kidney
+ - Abnormality of the skeletal system
+ - Abnormal sternum morphology
+ - Intellectual disability, mild
+ - Autistic behavior
+ - Constipation
+ - Diarrhea
+----
+Juvenile
+----
+ - Abnormality of the cardiovascular system
+ - Abnormality of the eye
+ - Acute lymphoblastic leukemia
+ - Atrial septal defect
+ - Brain neoplasm
+ - Chylothorax
+ - Edema
+ - Glioma
+ - High palate
+ - Hypertrophic cardiomyopathy
+ - Juvenile myelomonocytic leukemia
+ - Leukemia
+ - Lymphangiectasis
+ - Neuronal/glioneuronal neoplasm of the central nervous system
+ - Pleural effusion
+ - Proptosis
+ - Pulmonary lymphangiectasia
+ - Rhabdomyosarcoma
+ - Short stature
+ - Delayed puberty
+ - Scoliosis
+ - Abnormality of coagulation
+ - Specific learning disability
+ - Attention deficit hyperactivity disorder
+ - Anxiety
+ - Depression
+ - Abnormal social development
+ - Lymphedema
+ - Bruising susceptibility
+ - Joint hypermobility
+ - Chronic pain
+ - Migraine
+ - Dental malocclusion
+ - Hearing impairment
+ - Strabismus
+ - Keratosis pilaris
+ - Cafe-au-lait spot
+ - Intellectual disability, mild
+ - Cryptorchidism
+ - Sensorineural hearing impairment
+ - Conductive hearing impairment
+ - Abnormality of vision
+ - Abnormal bleeding
+ - Epistaxis
+ - Abnormality of the lymphatic system
+ - Atypical behavior
+ - Abnormality of the skin
+ - Numerous nevi
+ - Multiple lentigines
+ - Abnormality of the dentition
+ - Delayed skeletal maturation
+ - Abnormality of the skeletal system
+ - Abnormal sternum morphology
+ - Abnormality of limbs
+ - Recurrent infections
+ - Autistic behavior
+ - Constipation
+ - Diarrhea
+----
+Early adult
+----
+ - Abnormal bleeding
+ - Abnormal spermatogenesis
+ - Brain neoplasm
+ - Hypertrophic cardiomyopathy
+ - Juvenile myelomonocytic leukemia
+ - Leukemia
+ - Neuronal/glioneuronal neoplasm of the central nervous system
+ - Proptosis
+ - Short stature
+ - Decreased fertility
+ - Abnormality of the cardiovascular system
+ - Chronic pain
+ - Depression
+ - Anxiety
+ - Abnormal social development
+ - Lymphedema
+ - Bruising susceptibility
+ - Joint hypermobility
+ - Migraine
+ - Hearing impairment
+ - Strabismus
+ - Keratosis pilaris
+ - Cafe-au-lait spot
+ - Hypertension
+ - Obesity
+ - Sleep apnea
+ - Delayed puberty
+ - Cryptorchidism
+ - Abnormal heart morphology
+ - Abnormality of the skeletal system
+ - Abnormal sternum morphology
+ - Scoliosis
+ - Arthralgia
+ - Sensorineural hearing impairment
+ - Conductive hearing impairment
+ - Abnormality of vision
+ - Osteoarthritis
+ - Abnormality of the skin
+ - Numerous nevi
+ - Multiple lentigines
+ - Abnormality of the lymphatic system
+ - Abnormality of the kidney
+ - Atypical behavior
+ - Cognitive impairment
+ - Osteopenia
+ - Osteoporosis
+ - Chronic constipation
+ - Bowel irritability
+ - Abnormality of the genitourinary system
+----
+Intermediate early adult
+----
+ - Abnormal EKG
+ - Abnormality of the cardiovascular system
+ - Abnormality of thrombocytes
+ - Atrial septal defect
+ - Edema
+ - Glioma
+ - Hypertrophic cardiomyopathy
+ - Intestinal lymphangiectasia
+ - Keratoconus
+ - Lymphangiectasis
+ - Myelodysplasia
+ - Pleural effusion
+ - Decreased fertility
+ - Chronic pain
+ - Depression
+ - Anxiety
+ - Abnormal social development
+ - Lymphedema
+ - Bruising susceptibility
+ - Joint hypermobility
+ - Migraine
+ - Hearing impairment
+ - Hypertension
+ - Obesity
+ - Sleep apnea
+ - Osteoporosis
+ - Diabetes mellitus
+ - Abnormality of the thyroid gland
+ - Short stature
+ - Abnormal heart morphology
+ - Arrhythmia
+ - Cardiomyopathy
+ - Abnormality of the skeletal system
+ - Arthralgia
+ - Osteopenia
+ - Osteoarthritis
+ - Abnormal bleeding
+ - Sensorineural hearing impairment
+ - Conductive hearing impairment
+ - Abnormality of the lymphatic system
+ - Abnormality of the skin
+ - Numerous nevi
+ - Multiple lentigines
+ - Abnormality of vision
+ - Cataract
+ - Glaucoma
+ - Abnormality of the dentition
+ - Dental malocclusion
+ - Generalized periodontitis
+ - Abnormality of the kidney
+ - Atypical behavior
+ - Cognitive impairment
+ - Chronic constipation
+ - Bowel irritability
+----
+Late early adult
+----
+ - Abnormality of the cardiovascular system
+ - Chiari type I malformation
+ - Dysphagia
+ - Glioma
+ - Hypertrophic cardiomyopathy
+ - Intestinal lymphangiectasia
+ - Vomiting
+ - Chronic pain
+ - Depression
+ - Anxiety
+ - Abnormal social development
+ - Lymphedema
+ - Bruising susceptibility
+ - Joint hypermobility
+ - Migraine
+ - Hearing impairment
+ - Hypertension
+ - Obesity
+ - Sleep apnea
+ - Osteoporosis
+ - Diabetes mellitus
+ - Abnormality of the thyroid gland
+ - Chronic fatigue
+ - Abnormal heart morphology
+ - Arrhythmia
+ - Congestive heart failure
+ - Sensorineural hearing impairment
+ - Conductive hearing impairment
+ - Abnormal bleeding
+ - Leukemia
+ - Neuroblastoma
+ - Decreased fertility
+ - Short stature
+ - Abnormality of the skeletal system
+ - Osteopenia
+ - Arthralgia
+ - Abnormality of the lymphatic system
+ - Abnormality of the skin
+ - Numerous nevi
+ - Multiple lentigines
+ - Abnormality of vision
+ - Cataract
+ - Glaucoma
+ - Abnormality of the kidney
+ - Atypical behavior
+ - Cognitive impairment
+ - Chronic constipation
+ - Bowel irritability
+----
+Middle age
+----
+ - Edema
+ - Hypertrophic cardiomyopathy
+ - Intestinal lymphangiectasia
+ - Abnormality of the cardiovascular system
+ - Chronic pain
+ - Depression
+ - Anxiety
+ - Abnormal social development
+ - Lymphedema
+ - Bruising susceptibility
+ - Joint hypermobility
+ - Migraine
+ - Hearing impairment
+ - Hypertension
+ - Obesity
+ - Sleep apnea
+ - Osteoporosis
+ - Diabetes mellitus
+ - Abnormality of the thyroid gland
+ - Chronic fatigue
+ - Mental deterioration
+ - Arthritis
+ - Abnormal heart morphology
+ - Arrhythmia
+ - Congestive heart failure
+ - Sensorineural hearing impairment
+ - Conductive hearing impairment
+ - Abnormal bleeding
+ - Abnormal joint morphology
+ - Osteoarthritis
+ - Leukemia
+ - Lymphoma
+ - Abnormality of vision
+ - Cataract
+ - Glaucoma
+ - Macular degeneration
+ - Short stature
+ - Abnormality of the skin
+ - Abnormality of the lymphatic system
+ - Abnormality of the kidney
+ - Atypical behavior
+ - Cognitive impairment
+ - Chronic constipation
+ - Bowel irritability
+----
+Late
+----
+ - Chylothorax
+ - Abnormality of the cardiovascular system
+ - Chronic pain
+ - Hearing impairment
+ - Osteoporosis
+ - Mental deterioration
+ - Depression
+ - Anxiety
+ - Lymphedema
+ - Bruising susceptibility
+ - Joint hypermobility
+ - Migraine
+ - Hypertension
+ - Obesity
+ - Sleep apnea
+ - Diabetes mellitus
+ - Abnormality of the thyroid gland
+ - Chronic fatigue
+ - Arthritis
+ - Abnormality of vision
+ - Abnormal heart morphology
+ - Arrhythmia
+ - Congestive heart failure
+ - Sensorineural hearing impairment
+ - Conductive hearing impairment
+ - Abnormal bleeding
+ - Dementia
+ - Leukemia
+ - Lymphoma
+ - Abnormality of the skin
+ - Numerous nevi
+ - Cataract
+ - Glaucoma
+ - Macular degeneration
+ - Arthralgia
+ - Abnormality of the lymphatic system
+ - Abnormality of the kidney
+ - Atypical behavior
+ - Chronic constipation
+ - Bowel irritability
+ - Abnormality of the skeletal system
+----
+Undefined
+----
+ - Amblyopia
+ - Blue irides
+ - Brachydactyly
+ - Pulmonary artery stenosis
+ - Broad neck
+ - Chronic otitis media
+ - Abnormal factor VIII activity
+ - Decreased serum insulin-like growth factor 1
+ - Delayed gross motor development
+ - Dilatation of the renal pelvis
+ - Ureteral stenosis
+ - Dermatochalasis
+ - Duplicated collecting system
+ - Clinodactyly of the 5th finger
+ - Irritability
+ - Left anterior fascicular block
+ - Left axis deviation
+ - Mixed hearing impairment
+ - Neck pain
+ - Impaired platelet aggregation
+ - Prolonged bleeding after surgery
+ - Radioulnar synostosis
+ - Renal hypoplasia
+ - Superior pectus carinatum
+ - Unilateral renal agenesis
+ - Ectopic kidney
+ - Abnormality of the upper limb
+ - Abnormal vertebral morphology
+ - Abnormality of von Willebrand factor
+ - Long palpebral fissure

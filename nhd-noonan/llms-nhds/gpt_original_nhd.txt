@@ -1,0 +1,118 @@
+- stage: PRENATAL
+  phenotypes: 
+    - Polyhydramnios
+    - Increased nuchal translucency
+    - Fetal hydrops
+    - Congenital heart defects (e.g., pulmonary valve stenosis)
+    - Cystic hygroma
+
+- stage: CONGENITAL
+  phenotypes: 
+    - Congenital heart defects (e.g., pulmonary valve stenosis)
+    - Hypertelorism (wide-spaced eyes)
+    - Cryptorchidism (in males)
+    - Webbed neck
+    - Low-set, posteriorly rotated ears
+    - Short stature (birth length below average)
+    - Broad or webbed neck
+    - Lymphedema (hands and feet)
+    - Ptosis (droopy eyelids)
+    - Chest deformities (pectus excavatum or carinatum)
+
+- stage: NEONATAL
+  phenotypes: 
+    - Feeding difficulties (due to hypotonia)
+    - Hypotonia (low muscle tone)
+    - Short stature (below average length at birth)
+    - Cardiac abnormalities (e.g., hypertrophic cardiomyopathy)
+    - Jaundice (prolonged neonatal jaundice) 
+    - Dysmorphic facial features (wide-spaced eyes, low-set ears)
+    - Pulmonary valve stenosis
+
+- stage: INFANTILE
+  phenotypes: 
+    - Short stature
+    - Feeding difficulties
+    - Developmental delay (mild to moderate)
+    - Cardiac abnormalities (e.g., hypertrophic cardiomyopathy)
+    - Dysmorphic facial features (broad forehead, down-slanting eyes)
+    - Chest deformities (pectus excavatum or carinatum)
+    - Hypotonia
+    - Cryptorchidism (in males)
+    - Joint hypermobility
+
+- stage: CHILDHOOD
+  phenotypes: 
+    - Short stature
+    - Developmental delay (mild to moderate)
+    - Learning disabilities
+    - Speech delays
+    - Mild intellectual disability
+    - Joint hypermobility
+    - Scoliosis
+    - Cardiac abnormalities
+    - Failure to thrive (in early childhood)
+    - Bleeding disorders (easy bruising, nosebleeds) 
+    - Strabismus (crossed eyes)
+    - Hearing loss (sensorineural or conductive)
+
+- stage: JUVENILE
+  phenotypes: 
+    - Short stature
+    - Learning disabilities 
+    - Mild intellectual disability
+    - Pubertal delay
+    - Cryptorchidism (in males)
+    - Joint hypermobility
+    - Scoliosis
+    - Bleeding disorders (easy bruising, nosebleeds)
+    - Strabismus (crossed eyes)
+    - Hearing loss (sensorineural or conductive)
+
+- stage: EARLY ADULT
+  phenotypes: 
+    - Short stature
+    - Mild intellectual disability
+    - Cardiac abnormalities (e.g., hypertrophic cardiomyopathy)
+    - Cryptorchidism (in males)
+    - Scoliosis
+    - Hearing loss (sensorineural or conductive)
+    - Bleeding disorders (easy bruising, nosebleeds)
+
+- stage: INTERMEDIATE EARLY ADULT
+  phenotypes: 
+    - Short stature
+    - Cardiac abnormalities (e.g., hypertrophic cardiomyopathy)
+    - Joint hypermobility
+    - Scoliosis
+    - Hearing loss (sensorineural or conductive)
+    - Bleeding disorders (easy bruising, nosebleeds)
+
+- stage: LATE EARLY ADULT
+  phenotypes: 
+    - Short stature
+    - Cardiac abnormalities (e.g., hypertrophic cardiomyopathy)
+    - Scoliosis
+    - Hearing loss (sensorineural or conductive)
+    - Bleeding disorders (easy bruising, nosebleeds)
+    - Joint hypermobility
+    - Fertility issues in males (due to cryptorchidism)
+
+- stage: MIDDLE AGE
+  phenotypes: 
+    - Short stature
+    - Cardiac abnormalities (e.g., hypertrophic cardiomyopathy)
+    - Hearing loss (sensorineural or conductive)
+    - Increased risk of neoplasms (e.g., leukemia, lymphoma)
+    - Bleeding disorders (easy bruising, nosebleeds)
+    - Joint pain/osteoarthritis
+    - Scoliosis
+
+- stage: LATE
+  phenotypes: 
+    - Cardiac abnormalities (e.g., hypertrophic cardiomyopathy)
+    - Hearing loss (sensorineural or conductive)
+    - Increased risk of neoplasms (e.g., leukemia, lymphoma)
+    - Cognitive decline/dementia
+    - Bleeding disorders (easy bruising, nosebleeds)
+    - Joint pain/osteoarthritis
